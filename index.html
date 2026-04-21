@@ -3,405 +3,342 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta
-    name="description"
-    content="Advancing Together is a Cedar Valley collaborative aligning equity and community health improvement around Economic Security, Housing Stability, and Transportation Challenges."
-  />
-  <meta
-    property="og:title"
-    content="Advancing Together | Cedar Valley Community Health Improvement"
-  />
-  <meta
-    property="og:description"
-    content="A Black Hawk County collaborative advancing community health improvement and equity through shared priorities, measurable goals, and cross-sector action."
-  />
-  <meta property="og:image" content="AT-logo.png" />
   <title>Advancing Together | Cedar Valley Community Health Improvement</title>
-
+  <meta name="description" content="Advancing Together is a Cedar Valley collaborative working toward community health improvement and equity across Black Hawk County. Economic Stability. Housing Stability. Transportation Challenges." />
+  <meta property="og:title" content="Advancing Together | Cedar Valley" />
+  <meta property="og:description" content="A coalition of 40+ partners advancing community health and equity in Black Hawk County, Iowa." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" type="image/png" href="AT-logo.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
-    rel="stylesheet"
-  />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..700,0..100,0..1;1,9..144,300..700,0..100,0..1&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
-  <script>document.documentElement.classList.add('js');</script>
 </head>
 <body>
-  <nav class="nav" id="nav" aria-label="Main navigation">
-    <div class="container nav__inner">
-      <a class="nav__brand" href="#hero" aria-label="Advancing Together home">
-        <img src="AT-logo.png" alt="Advancing Together logo" />
-        <div>
-          <strong>Advancing Together</strong>
-          <span>Cedar Valley, Iowa</span>
-        </div>
-      </a>
 
-      <div class="nav__desktop">
-        <a href="#about">About</a>
-        <a href="#priorities">Priorities</a>
-        <a href="#roadmap">Roadmap</a>
-        <a href="#story">Story</a>
-        <a href="#partners">Partners</a>
-        <a href="#connect">Connect</a>
+  <nav class="nav" id="nav">
+    <div class="container container--wide">
+      <div class="nav__inner">
+        <a href="#hero" class="nav__brand" aria-label="Advancing Together home">
+          <img src="AT-logo.png" alt="" />
+          <span class="nav__brand-text">
+            <span class="nav__brand-name">Advancing Together</span>
+            <span class="nav__brand-loc">Cedar Valley &middot; Iowa</span>
+          </span>
+        </a>
+        <ul class="nav__desktop" role="menubar">
+          <li><a href="#about">About</a></li>
+          <li><a href="#priorities">Priorities</a></li>
+          <li><a href="#roadmap">Roadmap</a></li>
+          <li><a href="#story">Story</a></li>
+          <li><a href="#partners">Partners</a></li>
+          <li><a href="action-groups.html">Action Groups</a></li>
+          <li><a href="get-involved.html">Get Involved</a></li>
+        </ul>
+        <a href="get-involved.html" class="nav__cta">
+          Join the list
+          <svg class="nav__cta-arrow" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <button class="nav__toggle" id="nav-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-nav">
+          <span></span><span></span><span></span>
+        </button>
       </div>
-
-      <a class="btn btn--primary nav__cta" href="#connect">Contact Us</a>
-
-      <button
-        class="nav__toggle"
-        id="nav-toggle"
-        type="button"
-        aria-expanded="false"
-        aria-controls="mobile-nav"
-        aria-label="Open menu"
-      >
-        <span></span>
-        <span></span>
-        <span></span>
-      </button>
     </div>
   </nav>
 
-  <div class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation">
-    <button class="mobile-nav__close" id="mobile-close" type="button" aria-label="Close menu">
-      Close
-    </button>
-    <a href="#about">About</a>
-    <a href="#priorities">Priorities</a>
-    <a href="#roadmap">Roadmap</a>
-    <a href="#story">Story</a>
-    <a href="#partners">Partners</a>
-    <a href="#connect">Connect</a>
+  <div class="mobile-nav" id="mobile-nav" aria-hidden="true">
+    <button class="mobile-nav__close" id="mobile-close" aria-label="Close menu">Close</button>
+    <ul>
+      <li><a href="#about"><span class="num">01</span>About</a></li>
+      <li><a href="#priorities"><span class="num">02</span>Priorities</a></li>
+      <li><a href="#roadmap"><span class="num">03</span>Roadmap</a></li>
+      <li><a href="#story"><span class="num">04</span>Story</a></li>
+      <li><a href="#partners"><span class="num">05</span>Partners</a></li>
+      <li><a href="action-groups.html"><span class="num">06</span>Action Groups</a></li>
+      <li><a href="get-involved.html"><span class="num">07</span>Get Involved</a></li>
+      <li><a href="newsletter.html"><span class="num">08</span>Newsletter</a></li>
+      <li><a href="one-pager.html"><span class="num">09</span>Funder one-pager</a></li>
+    </ul>
+    <a href="get-involved.html" class="mobile-nav__cta">
+      Join our email list
+      <svg width="14" height="14" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
   </div>
 
   <header class="hero" id="hero">
-    <div class="hero__aurora" aria-hidden="true"></div>
-
-    <div class="container hero__grid">
-      <div class="hero__content">
-        <p class="eyebrow">Black Hawk County and the Cedar Valley</p>
-        <h1>
-          Community health improvement powered by equity,
-          <span>shared leadership, and coordinated action.</span>
-        </h1>
-        <p class="hero__lead">
-          Advancing Together is a community collaborative working to dismantle barriers to equity in Black Hawk
-          County and surrounding areas. In 2025, the Advancing Equity effort and the Community Health Improvement
-          steering committee aligned their work around one shared roadmap focused on Economic Security, Housing
-          Stability, and Transportation Challenges.
-        </p>
-
-        <div class="hero__actions">
-          <a class="btn btn--primary" href="#priorities">Explore Current Priorities</a>
-          <a class="btn btn--secondary" href="#roadmap">See the CHIP Roadmap</a>
+    <div class="hero__decorative" aria-hidden="true">
+      <svg viewBox="0 0 600 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="300" cy="300" r="280" stroke="#7b2cbf" stroke-opacity="0.12" stroke-width="1"/>
+        <circle cx="300" cy="300" r="220" stroke="#17a1c9" stroke-opacity="0.12" stroke-width="1"/>
+        <circle cx="300" cy="300" r="160" stroke="#f4a025" stroke-opacity="0.11" stroke-width="1"/>
+        <circle cx="300" cy="300" r="100" stroke="#0f7196" stroke-opacity="0.1" stroke-width="1"/>
+      </svg>
+    </div>
+    <div class="container container--wide">
+      <div class="hero__inner">
+        <div class="hero__header reveal">
+          <div class="hero__meta">
+            <span>Est. 2025</span>
+            <span class="dot"></span>
+            <span>Black Hawk County, Iowa</span>
+            <span class="dot"></span>
+            <span>40+ partners</span>
+          </div>
+          <h1 class="hero__title">
+            Community health,
+            <span class="break"><em>advancing together.</em></span>
+          </h1>
+          <p class="hero__lede">A Cedar Valley coalition working to dismantle barriers to equity and improve community health across Black Hawk County &mdash; rooted in shared leadership, local data, and coordinated action.</p>
+          <div class="hero__actions">
+            <a href="#priorities" class="btn btn--primary">
+              See our priorities
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a href="get-involved.html" class="btn btn--secondary">Get involved</a>
+            <a href="#connect" class="btn btn--ghost">For funders</a>
+          </div>
         </div>
-
-        <p class="hero__caption">
-          Steering committee leadership includes CFNEIA, Black Hawk County Public Health, and ONE Cedar Valley.
-        </p>
+        <aside class="hero__sidecard reveal reveal--delay-2" aria-labelledby="hero-sidecard-title">
+          <span class="hero__sidecard-label">2026&ndash;2028 CHIP Roadmap</span>
+          <h3 id="hero-sidecard-title">Three shared priorities, one coordinated effort.</h3>
+          <p>In 2025, Advancing Equity and the Community Health Improvement steering committee aligned their work around a single roadmap.</p>
+          <ul class="hero__sidecard-list">
+            <li><span class="num">01</span> Economic Stability</li>
+            <li><span class="num">02</span> Housing Stability</li>
+            <li><span class="num">03</span> Transportation Challenges</li>
+          </ul>
+          <a href="#roadmap" class="btn btn--primary" style="width:100%; justify-content:center;">
+            Explore the roadmap
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        </aside>
       </div>
-
-      <aside class="hero__panel" aria-label="Advancing Together overview">
-        <p class="hero__panel-kicker">Why this matters now</p>
-        <h2>One shared roadmap for community health improvement in the Cedar Valley.</h2>
-        <p class="hero__panel-copy">
-          The collaborative now brings health improvement, equity strategy, and cross-sector implementation into one
-          cleaner structure so partners and funders can align around measurable community priorities.
-        </p>
-
-        <div class="hero__panel-grid">
-          <article class="hero__panel-card">
-            <span>2025</span>
-            <h3>Merged direction</h3>
-            <p>Advancing Equity and the Community Health Improvement steering committee now move forward together.</p>
-          </article>
-
-          <article class="hero__panel-card">
-            <span>40+</span>
-            <h3>Active partners</h3>
-            <p>Cross-sector organizations, institutions, and navigators are shaping implementation side by side.</p>
-          </article>
-
-          <article class="hero__panel-card hero__panel-card--wide">
-            <span>Current priorities</span>
-            <h3>Economic Security, Housing Stability, and Transportation Challenges</h3>
-            <p>Resident voice, local data, and ongoing reporting guide the work from strategy through action.</p>
-          </article>
+      <div class="hero__stats reveal reveal--delay-3">
+        <div>
+          <div class="hero__stat-label">Year aligned</div>
+          <div class="hero__stat-value">2025</div>
+          <div class="hero__stat-note">Advancing Equity + CHIP merged</div>
         </div>
-      </aside>
+        <div>
+          <div class="hero__stat-label">Active partners</div>
+          <div class="hero__stat-value" data-target="40" data-suffix="+">0</div>
+          <div class="hero__stat-note">Cross-sector organizations</div>
+        </div>
+        <div>
+          <div class="hero__stat-label">People engaged</div>
+          <div class="hero__stat-value" data-target="176" data-suffix="+">0</div>
+          <div class="hero__stat-note">Across workshops &amp; sessions</div>
+        </div>
+        <div>
+          <div class="hero__stat-label">Priority areas</div>
+          <div class="hero__stat-value" data-target="3">0</div>
+          <div class="hero__stat-note">Shared across the coalition</div>
+        </div>
+      </div>
     </div>
   </header>
 
-  <section class="signal-band" aria-label="Advancing Together at a glance">
-    <div class="container signal-band__grid">
-      <article class="signal-card reveal">
-        <strong data-target="40" data-suffix="+">40+</strong>
-        <h2>Partners at the table</h2>
-        <p>Cross-sector organizations, navigators, and institutions are shaping coordinated action together.</p>
-      </article>
-
-      <article class="signal-card reveal reveal-delay-1">
-        <strong data-target="176" data-suffix="+">176+</strong>
-        <h2>People and organizations engaged</h2>
-        <p>The work builds on years of workshops, strategic action sessions, and community collaboration.</p>
-      </article>
-
-      <article class="signal-card reveal reveal-delay-2">
-        <strong data-target="3" data-suffix="">3</strong>
-        <h2>Shared community priorities</h2>
-        <p>Economic Security, Housing Stability, and Transportation Challenges guide the current CHIP effort.</p>
-      </article>
-    </div>
-  </section>
   <main>
     <section class="section" id="about">
-      <div class="container about">
-        <div class="about__content">
-          <p class="section-label">About Advancing Together</p>
-          <h2 class="section-title reveal">A collaborative built to move from insight to implementation.</h2>
-          <p class="reveal">
-            Advancing Together brings together representatives from the business, nonprofit, public, health, and
-            community sectors to address the conditions that shape well-being across the Cedar Valley. The coalition
-            is rooted in the belief that healthy people require a healthy community and that inequity is created by
-            systems that can be changed.
-          </p>
-          <p class="reveal">
-            The current structure reflects the 2025 combination of Advancing Equity and the Community Health
-            Improvement steering committee. That merger created a more unified model for coordinating partners,
-            connecting residents to resources, and focusing community energy around shared outcomes.
-          </p>
-
-          <div class="legacy-block reveal">
-            <p class="legacy-block__title">Built on earlier Advancing Equity focus areas</p>
-            <div class="pill-list" aria-label="Earlier focus areas">
-              <span>Transportation</span>
-              <span>Childcare</span>
-              <span>Education and Training</span>
-              <span>Basic Needs</span>
-              <span>Culture and Language</span>
-            </div>
+      <div class="container">
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 01</span>
+            <span class="eyebrow">About Advancing Together</span>
           </div>
+          <h2 class="section-head__title">A collaborative built to move from <em>insight to implementation.</em></h2>
         </div>
-
-        <div class="about__stack">
-          <div class="quote-card reveal">
-            <p>We can't have healthy people without a healthy community.</p>
-            <span>Guiding principle carried from Advancing Equity into Advancing Together</span>
+        <div style="display:grid; grid-template-columns:1fr; gap:2.5rem;">
+          <div style="display:grid; grid-template-columns:1fr; gap:2rem;" class="reveal reveal--delay-1">
+            <p class="body-text body-text--lg">Advancing Together brings together representatives from the business, nonprofit, public, health, and community sectors to address the conditions that shape well-being across the Cedar Valley. The coalition is rooted in the belief that healthy people require a healthy community &mdash; and that inequity is created by systems that can be changed.</p>
+            <p class="body-text">The current structure reflects the 2025 alignment of Advancing Equity and the Community Health Improvement steering committee. That merger created a unified model for coordinating partners, connecting residents to resources, and focusing community energy around shared outcomes.</p>
           </div>
-
-          <div class="about__grid">
-            <article class="mini-card reveal">
-              <p class="mini-card__label">How we work</p>
-              <h3>Community-rooted</h3>
-              <p>Residents and frontline navigators help define priorities, surface barriers, and shape practical strategies.</p>
-            </article>
-
-            <article class="mini-card reveal reveal-delay-1">
-              <p class="mini-card__label">What we offer</p>
-              <h3>Cross-sector alignment</h3>
-              <p>Business, nonprofit, public health, and civic partners work from shared goals instead of isolated efforts.</p>
-            </article>
-
-            <article class="mini-card reveal reveal-delay-2">
-              <p class="mini-card__label">Why it matters</p>
-              <h3>Stronger accountability</h3>
-              <p>Clear goals, measurable objectives, and ongoing reporting keep the roadmap grounded in results.</p>
-            </article>
+          <div class="how-grid" style="margin-top: 2rem;">
+            <div class="how-card reveal">
+              <span class="how-card__eyebrow">How we work</span>
+              <h3 class="how-card__title">Community-rooted</h3>
+              <p class="how-card__desc">Residents and frontline navigators help define priorities, surface barriers, and shape practical strategies.</p>
+            </div>
+            <div class="how-card reveal reveal--delay-1">
+              <span class="how-card__eyebrow">What we offer</span>
+              <h3 class="how-card__title">Cross-sector alignment</h3>
+              <p class="how-card__desc">Business, nonprofit, public health, and civic partners work from shared goals instead of isolated efforts.</p>
+            </div>
+            <div class="how-card reveal reveal--delay-2">
+              <span class="how-card__eyebrow">Why it matters</span>
+              <h3 class="how-card__title">Stronger accountability</h3>
+              <p class="how-card__desc">Clear goals, measurable objectives, and ongoing reporting keep the roadmap grounded in results.</p>
+            </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="section section--mist" id="priorities">
+    <section class="section section--deep" id="priorities">
       <div class="container">
-        <div class="section-heading-block">
-          <p class="section-label">Current CHIP Priorities</p>
-          <h2 class="section-title reveal">Three priority areas, one shared commitment to long-term well-being.</h2>
-          <p class="section-intro reveal">
-            Each priority includes goals, measurable objectives, and strategies that span systems change, community
-            partnerships, organizational coordination, and individual support.
-          </p>
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 02</span>
+            <span class="eyebrow">Current CHIP Priorities</span>
+          </div>
+          <h2 class="section-head__title">Three priority areas, one shared commitment to <em>long-term well-being.</em></h2>
         </div>
-
-        <div class="priorities__grid">
-          <article class="priority-card reveal">
-            <div class="priority-card__top">
-              <span class="priority-card__index">01</span>
-              <p class="priority-card__tag">2026-2028 CHIP</p>
-            </div>
-            <h3>Economic Security</h3>
-            <p>
-              Advance financial stability by strengthening connections to work, benefits, supports, and resource
-              navigation that help residents move toward greater security.
-            </p>
-            <ul class="feature-list" role="list">
+        <p class="body-text body-text--lg reveal" style="max-width:60em; margin-bottom:3rem;">Each priority includes goals, measurable objectives, and strategies that span systems change, community partnerships, organizational coordination, and individual support.</p>
+        <div class="priorities">
+          <article class="priority reveal">
+            <span class="priority__num">01</span>
+            <h3 class="priority__title">Economic Stability</h3>
+            <p class="priority__desc">Advance financial stability by strengthening connections to work, benefits, supports, and resource navigation that help residents move toward greater security.</p>
+            <ul class="priority__list">
               <li>Reduce barriers that make it hard to maintain income and essential supports at the same time.</li>
               <li>Coordinate services so residents are not left navigating disconnected systems on their own.</li>
               <li>Build strategies that respond to real community conditions, not assumptions about need.</li>
             </ul>
+            <div class="priority__tag">2026&ndash;2028 CHIP</div>
           </article>
-
-          <article class="priority-card reveal reveal-delay-1">
-            <div class="priority-card__top">
-              <span class="priority-card__index">02</span>
-              <p class="priority-card__tag">2026-2028 CHIP</p>
-            </div>
-            <h3>Housing Stability</h3>
-            <p>
-              Support stable, healthy housing by addressing the factors that influence safety, affordability,
-              neighborhood conditions, and access to responsive services.
-            </p>
-            <ul class="feature-list" role="list">
+          <article class="priority reveal reveal--delay-1">
+            <span class="priority__num">02</span>
+            <h3 class="priority__title">Housing Stability</h3>
+            <p class="priority__desc">Support stable, healthy housing by addressing the factors that influence safety, affordability, neighborhood conditions, and access to responsive services.</p>
+            <ul class="priority__list">
               <li>Surface the structural drivers that keep some neighborhoods under-resourced and disconnected.</li>
               <li>Improve coordination across housing, health, and support systems.</li>
               <li>Center resident experience when defining what stability and safety look like in practice.</li>
             </ul>
+            <div class="priority__tag">2026&ndash;2028 CHIP</div>
           </article>
-
-          <article class="priority-card reveal reveal-delay-2">
-            <div class="priority-card__top">
-              <span class="priority-card__index">03</span>
-              <p class="priority-card__tag">2026-2028 CHIP</p>
-            </div>
-            <h3>Transportation Challenges</h3>
-            <p>
-              Improve mobility so people can reliably reach employment, healthcare, education, childcare, and daily
-              essentials without transportation barriers driving instability.
-            </p>
-            <ul class="feature-list" role="list">
+          <article class="priority reveal reveal--delay-2">
+            <span class="priority__num">03</span>
+            <h3 class="priority__title">Transportation Challenges</h3>
+            <p class="priority__desc">Improve mobility so people can reliably reach employment, healthcare, education, childcare, and daily essentials without transportation barriers driving instability.</p>
+            <ul class="priority__list">
               <li>Identify gaps in routes, access, and navigation that limit opportunity across the region.</li>
               <li>Connect transportation planning to health, housing, and economic outcomes.</li>
               <li>Support practical solutions that improve day-to-day access for residents and frontline partners.</li>
             </ul>
+            <div class="priority__tag">2026&ndash;2028 CHIP</div>
           </article>
         </div>
       </div>
     </section>
 
     <section class="section" id="roadmap">
-      <div class="container roadmap">
-        <div class="roadmap__content">
-          <p class="section-label">How the Roadmap Was Built</p>
-          <h2 class="section-title reveal">The CHIP roadmap was shaped through a collaborative, data-driven process.</h2>
-          <p class="reveal">
-            The core team worked with Advancing Together participants to deepen understanding of each priority
-            through local data, community feedback, and shared learning activities such as the A Walk in Their Shoes
-            poverty simulation.
-          </p>
-
-          <div class="process-list">
-            <article class="process-item reveal">
-              <span>1</span>
+      <div class="container">
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 03</span>
+            <span class="eyebrow">How the Roadmap Was Built</span>
+          </div>
+          <h2 class="section-head__title">The CHIP roadmap was shaped through a collaborative, <em>data-driven process.</em></h2>
+        </div>
+        <p class="body-text body-text--lg reveal" style="max-width:60em; margin-bottom:3rem;">The core team worked with Advancing Together participants to deepen understanding of each priority through local data, community feedback, and shared learning activities &mdash; including the <em>A Walk in Their Shoes</em> poverty simulation.</p>
+        <div class="roadmap">
+          <div class="roadmap__steps reveal">
+            <div class="roadmap__step">
+              <div class="roadmap__step-num">01</div>
               <div>
-                <h3>Listen to residents and navigators</h3>
-                <p>Issue profiles were informed by the experiences of residents and frontline partners closest to the work.</p>
+                <h3 class="roadmap__step-title">Listen to residents and navigators</h3>
+                <p class="roadmap__step-desc">Issue profiles were informed by the experiences of residents and frontline partners closest to the work.</p>
               </div>
-            </article>
-
-            <article class="process-item reveal reveal-delay-1">
-              <span>2</span>
+            </div>
+            <div class="roadmap__step">
+              <div class="roadmap__step-num">02</div>
               <div>
-                <h3>Review local data and common challenges</h3>
-                <p>Partners identified shared patterns across the priority areas and used that insight to focus strategy.</p>
+                <h3 class="roadmap__step-title">Review local data and common challenges</h3>
+                <p class="roadmap__step-desc">Partners identified shared patterns across the priority areas and used that insight to focus strategy.</p>
               </div>
-            </article>
-
-            <article class="process-item reveal reveal-delay-2">
-              <span>3</span>
+            </div>
+            <div class="roadmap__step">
+              <div class="roadmap__step-num">03</div>
               <div>
-                <h3>Align with work already underway</h3>
-                <p>Existing community initiatives were connected to the plan to reduce duplication and increase impact.</p>
+                <h3 class="roadmap__step-title">Align with work already underway</h3>
+                <p class="roadmap__step-desc">Existing community initiatives were connected to the plan to reduce duplication and increase impact.</p>
               </div>
-            </article>
-
-            <article class="process-item reveal reveal-delay-3">
-              <span>4</span>
+            </div>
+            <div class="roadmap__step">
+              <div class="roadmap__step-num">04</div>
               <div>
-                <h3>Track progress transparently</h3>
-                <p>Ongoing data review, community input, and public reporting help keep the plan practical and responsive.</p>
+                <h3 class="roadmap__step-title">Track progress transparently</h3>
+                <p class="roadmap__step-desc">Ongoing data review, community input, and public reporting help keep the plan practical and responsive.</p>
               </div>
-            </article>
+            </div>
+          </div>
+          <div class="roadmap__image reveal reveal--delay-1">
+            <div class="roadmap__image-frame">
+              <img src="CHA Advancing Together.png" alt="Advancing Together Community Health Improvement roadmap showing Economic Stability, Transportation Challenges, and Housing Stability." />
+              <div class="roadmap__image-label">
+                <span>CHIP Roadmap &middot; 2026&ndash;2028</span>
+                <a href="CHA Advancing Together.png" download style="color:var(--gold-deep); display:inline-flex; align-items:center; gap:0.25rem; border-bottom:1px solid var(--gold); padding-bottom:1px;">
+                  Download
+                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" aria-hidden="true"><path d="M5 1V7M5 7L2 4M5 7L8 4M1 9H9" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </a>
+              </div>
+            </div>
           </div>
         </div>
+      </div>
+    </section>
 
-        <figure class="roadmap__figure reveal">
-          <img
-            src="CHA Advancing Together.png"
-            alt="Advancing Together Community Health Improvement roadmap showing Economic Security, Transportation Challenges, and Housing Stability."
-          />
-          <figcaption>
-            The Community Health Improvement steering committee and Advancing Together are aligned around a shared
-            roadmap for 2026-2028.
-          </figcaption>
-        </figure>
+    <section class="section--tight">
+      <div class="container">
+        <div class="pullquote reveal">
+          <span class="pullquote__mark">&ldquo;</span>
+          <p class="pullquote__text">We can't have healthy people without a healthy community.</p>
+          <p class="pullquote__attr">Guiding principle &middot; carried from Advancing Equity</p>
+        </div>
       </div>
     </section>
 
     <section class="section section--ink" id="story">
       <div class="container">
-        <div class="section-heading-block section-heading-block--light">
-          <p class="section-label">Our Story</p>
-          <h2 class="section-title reveal">From Advancing Equity to Advancing Together.</h2>
-          <p class="section-intro reveal">
-            The current roadmap builds on several years of systems mapping, community reflection, and coalition
-            development across the Cedar Valley.
-          </p>
-        </div>
-
-        <div class="story__grid">
-          <div class="timeline">
-            <article class="timeline__item reveal">
-              <p class="timeline__year">2018</p>
-              <h3>A regional wake-up call</h3>
-              <p>The community response accelerated after Waterloo-Cedar Falls was named the worst place for Black Americans to live.</p>
-            </article>
-
-            <article class="timeline__item reveal reveal-delay-1">
-              <p class="timeline__year">2019-2023</p>
-              <h3>Systems mapping and strategic action</h3>
-              <p>Local stories and data were used to identify patterns, bright spots, and theories for change through the Advancing Equity process.</p>
-            </article>
-
-            <article class="timeline__item reveal reveal-delay-2">
-              <p class="timeline__year">2025</p>
-              <h3>One merged direction</h3>
-              <p>Advancing Equity and the Community Health Improvement steering committee combined efforts to create a more coordinated structure.</p>
-            </article>
-
-            <article class="timeline__item reveal reveal-delay-3">
-              <p class="timeline__year">2026-2028</p>
-              <h3>Implementation through the CHIP roadmap</h3>
-              <p>Advancing Together now carries the work forward through clear priorities, measurable objectives, and aligned community action.</p>
-            </article>
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num" style="color: var(--ink-faint);">&sect; 04</span>
+            <span class="eyebrow">Our Story</span>
           </div>
-
-          <div class="story__panel reveal">
-            <p class="story__panel-label">What the earlier work taught us</p>
-            <h3>Healthy communities require systems that are fair, connected, and responsive.</h3>
-            <p>
-              The original Advancing Equity work helped the community name the patterns driving inequitable outcomes
-              and the strengths that can support change. Those lessons continue to shape the current roadmap.
-            </p>
-
-            <div class="lessons__grid">
-              <article class="lesson-card">
-                <h4>Divided We Fall</h4>
-                <p>Segregation and disconnection continue to shape opportunity, belonging, and trust.</p>
-              </article>
-              <article class="lesson-card">
-                <h4>Holes in the Safety Net</h4>
-                <p>Communities pay the price when healthcare, housing, education, and income stability are uneven.</p>
-              </article>
-              <article class="lesson-card">
-                <h4>Impact of Bias</h4>
-                <p>Bias influences access, treatment, safety, and long-term health in visible and invisible ways.</p>
-              </article>
-              <article class="lesson-card">
-                <h4>Seeds of Resilience</h4>
-                <p>When people and organizations align around need, new resources and practical solutions become possible.</p>
-              </article>
+          <h2 class="section-head__title">From Advancing Equity to <em>Advancing Together.</em></h2>
+        </div>
+        <p class="body-text body-text--lg reveal" style="max-width:60em; margin-bottom:3rem; color:var(--paper-deep);">The current roadmap builds on several years of systems mapping, community reflection, and coalition development across the Cedar Valley.</p>
+        <div class="timeline">
+          <div class="timeline__item reveal">
+            <div class="timeline__year">2018</div>
+            <h3 class="timeline__title">A regional wake-up call</h3>
+            <p class="timeline__desc">The community response accelerated after Waterloo-Cedar Falls was named among the worst places for Black Americans to live.</p>
+          </div>
+          <div class="timeline__item reveal reveal--delay-1">
+            <div class="timeline__year">2019&ndash;23</div>
+            <h3 class="timeline__title">Systems mapping &amp; action</h3>
+            <p class="timeline__desc">Local stories and data were used to identify patterns, bright spots, and theories for change through Advancing Equity.</p>
+          </div>
+          <div class="timeline__item reveal reveal--delay-2">
+            <div class="timeline__year">2025</div>
+            <h3 class="timeline__title">One merged direction</h3>
+            <p class="timeline__desc">Advancing Equity and the Community Health Improvement steering committee combined efforts for a more coordinated structure.</p>
+          </div>
+          <div class="timeline__item reveal reveal--delay-3">
+            <div class="timeline__year">2026&ndash;28</div>
+            <h3 class="timeline__title">Implementation through CHIP</h3>
+            <p class="timeline__desc">Advancing Together carries the work forward through clear priorities, measurable objectives, and aligned community action.</p>
+          </div>
+        </div>
+        <div style="margin-top:4rem;">
+          <h3 class="section-head__title reveal" style="font-size:clamp(1.5rem, 3vw, 2rem); max-width:40em;">What the earlier work taught us &mdash; healthy communities require systems that are <em>fair, connected, and responsive.</em></h3>
+          <div class="lessons">
+            <div class="lesson reveal">
+              <h4 class="lesson__title">Divided We Fall</h4>
+              <p class="lesson__desc">Segregation and disconnection continue to shape opportunity, belonging, and trust.</p>
+            </div>
+            <div class="lesson reveal reveal--delay-1">
+              <h4 class="lesson__title">Holes in the Safety Net</h4>
+              <p class="lesson__desc">Communities pay the price when healthcare, housing, education, and income stability are uneven.</p>
+            </div>
+            <div class="lesson reveal reveal--delay-2">
+              <h4 class="lesson__title">Impact of Bias</h4>
+              <p class="lesson__desc">Bias influences access, treatment, safety, and long-term health in visible and invisible ways.</p>
+            </div>
+            <div class="lesson reveal reveal--delay-3">
+              <h4 class="lesson__title">Seeds of Resilience</h4>
+              <p class="lesson__desc">When people and organizations align around need, new resources and practical solutions become possible.</p>
             </div>
           </div>
         </div>
@@ -410,191 +347,184 @@
 
     <section class="section" id="partners">
       <div class="container">
-        <div class="section-heading-block">
-          <p class="section-label">Partners and Leadership</p>
-          <h2 class="section-title reveal">The work is stewarded by trusted local institutions and strengthened by 40+ partners.</h2>
-          <p class="section-intro reveal">
-            Advancing Together is designed to connect sectors, streamline effort, and create a stronger foundation
-            for collaboration, funding, and implementation.
-          </p>
-        </div>
-
-        <div class="partners__grid">
-          <article class="org-card reveal">
-            <p class="org-card__label">Steering committee</p>
-            <h3>Community Foundation of Northeast Iowa</h3>
-            <p>Providing philanthropic leadership, convening power, and long-term investment in community conditions.</p>
-          </article>
-
-          <article class="org-card reveal reveal-delay-1">
-            <p class="org-card__label">Steering committee</p>
-            <h3>Black Hawk County Public Health</h3>
-            <p>Grounding the work in public health strategy, data, and a commitment to equitable community well-being.</p>
-          </article>
-
-          <article class="org-card reveal reveal-delay-2">
-            <p class="org-card__label">Steering committee</p>
-            <h3>ONE Cedar Valley</h3>
-            <p>Helping strengthen inclusive leadership, community partnership, and regional collaboration across systems.</p>
-          </article>
-        </div>
-
-        <div class="integration-panel reveal">
-          <div>
-            <p class="integration-panel__label">Community Health Improvement steering committee</p>
-            <h3>Health and equity efforts are now intentionally connected.</h3>
-            <p>
-              The updated structure strengthens coordination across health, community, and civic partners so the CHIP
-              priorities can be advanced with shared ownership and a clearer line of sight to outcomes.
-            </p>
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 05</span>
+            <span class="eyebrow">Partners &amp; Leadership</span>
           </div>
-
-          <div class="pill-list pill-list--dark" aria-label="Community health improvement partners">
-            <span>UnityPoint Health</span>
-            <span>MercyOne</span>
-            <span>Peoples Community Health Clinic</span>
-            <span>Black Hawk County Public Health</span>
-          </div>
+          <h2 class="section-head__title">Stewarded by trusted local institutions and strengthened by <em>40+ partners.</em></h2>
         </div>
-
-        <div class="supporter-block reveal">
-          <p class="supporter-block__label">Historic funders and collaborators</p>
-          <div class="pill-list" aria-label="Historic funders and collaborators">
-            <span>Kresge Foundation</span>
-            <span>Engaging Inquiry LLC</span>
-            <span>Grow Cedar Valley</span>
-            <span>University of Iowa College of Public Health</span>
-            <span>TOP Rank</span>
-            <span>SWIM (See What I Mean)</span>
+        <p class="body-text body-text--lg reveal" style="max-width:60em; margin-bottom:3rem;">Advancing Together is designed to connect sectors, streamline effort, and create a stronger foundation for collaboration, funding, and implementation.</p>
+        <div class="partner-grid">
+          <article class="partner-card reveal">
+            <span class="partner-card__role">Steering committee</span>
+            <h3 class="partner-card__name">Community Foundation of Northeast Iowa</h3>
+            <p class="partner-card__desc">Providing philanthropic leadership, convening power, and long-term investment in community conditions.</p>
+          </article>
+          <article class="partner-card reveal reveal--delay-1">
+            <span class="partner-card__role">Steering committee</span>
+            <h3 class="partner-card__name">Black Hawk County Public Health</h3>
+            <p class="partner-card__desc">Grounding the work in public health strategy, data, and a commitment to equitable community well-being.</p>
+          </article>
+          <article class="partner-card reveal reveal--delay-2">
+            <span class="partner-card__role">Steering committee</span>
+            <h3 class="partner-card__name">ONE Cedar Valley</h3>
+            <p class="partner-card__desc">Helping strengthen inclusive leadership, community partnership, and regional collaboration across systems.</p>
+          </article>
+        </div>
+        <div class="partner-list reveal">
+          <div class="partner-list__group">
+            <div class="partner-list__label">Community Health Improvement steering committee</div>
+            <ul class="partner-list__items">
+              <li>UnityPoint Health</li>
+              <li>MercyOne</li>
+              <li>Peoples Community Health Clinic</li>
+              <li>Black Hawk County Public Health</li>
+            </ul>
+          </div>
+          <div class="partner-list__group">
+            <div class="partner-list__label">Historic funders and collaborators</div>
+            <ul class="partner-list__items">
+              <li>Kresge Foundation</li>
+              <li>Engaging Inquiry LLC</li>
+              <li>Grow Cedar Valley</li>
+              <li>University of Iowa College of Public Health</li>
+              <li>TOP Rank</li>
+              <li>SWIM (See What I Mean)</li>
+            </ul>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="section section--cta" id="connect">
-      <div class="container connect">
-        <div class="connect__intro">
-          <p class="section-label">Connect and Invest</p>
-          <h2 class="section-title reveal">Start a conversation with Advancing Together.</h2>
-          <p class="reveal">
-            Advancing Together offers a strong entry point for state, regional, and national partners who want to
-            support community-informed work in the Cedar Valley. Because the collaborative is currently stewarded
-            through partner organizations, the clearest way to connect today is through steering committee leadership.
-          </p>
-          <p class="connect__note reveal">
-            This is the most practical approach right now unless and until Advancing Together launches its own standalone inbox or form.
-          </p>
+    <section class="section--tight">
+      <div class="container">
+        <div class="cta-strip reveal">
+          <div>
+            <div class="cta-strip__eyebrow">Get Involved</div>
+            <h2 class="cta-strip__title">Be part of what <em>comes next.</em></h2>
+            <p class="cta-strip__desc">Join our email list to stay connected to the work, or sign up for our bi-yearly newsletter to see how the roadmap is moving forward.</p>
+          </div>
+          <div class="cta-strip__actions">
+            <a href="get-involved.html" class="btn btn--primary">
+              Join the email list
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a href="newsletter.html" class="btn btn--secondary">Get the newsletter</a>
+          </div>
         </div>
+      </div>
+    </section>
 
-        <div class="connect__grid">
+    <section class="section section--deep" id="connect">
+      <div class="container">
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 06</span>
+            <span class="eyebrow">Connect &amp; Invest</span>
+          </div>
+          <h2 class="section-head__title">Start a conversation with <em>Advancing Together.</em></h2>
+        </div>
+        <p class="body-text body-text--lg reveal" style="max-width:60em; margin-bottom:3rem;">Advancing Together offers a strong entry point for state, regional, and national partners who want to support community-informed work in the Cedar Valley. Because the collaborative is currently stewarded through partner organizations, the clearest way to connect today is through steering committee leadership.</p>
+        <div class="contact-grid">
           <article class="contact-card reveal">
-            <p class="contact-card__label">Public health coordination</p>
-            <h3>Black Hawk County Public Health</h3>
-            <p>
-              Reach out here for questions related to the CHIP roadmap, community health improvement priorities, and
-              regional implementation coordination.
-            </p>
-            <div class="contact-card__details">
+            <span class="contact-card__role">Public health coordination</span>
+            <h3 class="contact-card__name">Black Hawk County Public Health</h3>
+            <p class="contact-card__desc">For questions related to the CHIP roadmap, community health improvement priorities, and regional implementation coordination.</p>
+            <div class="contact-card__info">
               <a href="mailto:publichealth@blackhawkcounty.iowa.gov">publichealth@blackhawkcounty.iowa.gov</a>
               <a href="tel:3192912413">(319) 291-2413</a>
             </div>
             <div class="contact-card__actions">
-              <a class="btn btn--primary" href="mailto:publichealth@blackhawkcounty.iowa.gov?subject=Advancing%20Together%20Inquiry">Email Public Health</a>
-              <a class="btn btn--secondary-light" href="https://www.bhcpublichealth.org/contact-us" target="_blank" rel="noreferrer">Visit Contact Page</a>
+              <a href="mailto:publichealth@blackhawkcounty.iowa.gov?subject=Advancing%20Together%20Inquiry" class="btn btn--primary">Email</a>
+              <a href="https://www.bhcpublichealth.org/contact-us" target="_blank" rel="noopener" class="btn btn--ghost">Contact page</a>
             </div>
           </article>
-
-          <article class="contact-card reveal reveal-delay-1">
-            <p class="contact-card__label">Philanthropic leadership</p>
-            <h3>Community Foundation of Northeast Iowa</h3>
-            <p>
-              Start here for funder conversations, philanthropic alignment, and opportunities to support long-term
-              community conditions and collaborative strategy.
-            </p>
-            <div class="contact-card__details">
+          <article class="contact-card reveal reveal--delay-1">
+            <span class="contact-card__role">Philanthropic leadership</span>
+            <h3 class="contact-card__name">Community Foundation of Northeast Iowa</h3>
+            <p class="contact-card__desc">Start here for funder conversations, philanthropic alignment, and opportunities to support long-term community conditions and collaborative strategy.</p>
+            <div class="contact-card__info">
               <a href="tel:3192879106">(319) 287-9106</a>
-              <a href="https://www.cfneia.org/about-us/contact-us/" target="_blank" rel="noreferrer">General contact form</a>
+              <a href="https://www.cfneia.org/about-us/contact-us/" target="_blank" rel="noopener">General contact form</a>
             </div>
             <div class="contact-card__actions">
-              <a class="btn btn--primary" href="https://www.cfneia.org/about-us/contact-us/" target="_blank" rel="noreferrer">Contact CFNEIA</a>
-              <a class="btn btn--secondary-light" href="#partners">View Leadership</a>
+              <a href="https://www.cfneia.org/about-us/contact-us/" target="_blank" rel="noopener" class="btn btn--primary">Contact CFNEIA</a>
             </div>
           </article>
-
-          <article class="contact-card reveal reveal-delay-2">
-            <p class="contact-card__label">Coalition and community partnership</p>
-            <h3>ONE Cedar Valley</h3>
-            <p>
-              Reach out for collaboration, community partnership, and opportunities to connect this work with broader
-              inclusion and regional engagement efforts.
-            </p>
-            <div class="contact-card__details">
+          <article class="contact-card reveal reveal--delay-2">
+            <span class="contact-card__role">Coalition &amp; community partnership</span>
+            <h3 class="contact-card__name">ONE Cedar Valley</h3>
+            <p class="contact-card__desc">Reach out for collaboration, community partnership, and opportunities to connect this work with broader inclusion and regional engagement efforts.</p>
+            <div class="contact-card__info">
               <a href="mailto:info@onecedarvalley.com">info@onecedarvalley.com</a>
               <a href="tel:3194930380">(319) 493-0380</a>
             </div>
             <div class="contact-card__actions">
-              <a class="btn btn--primary" href="mailto:info@onecedarvalley.com?subject=Advancing%20Together%20Inquiry">Email ONE Cedar Valley</a>
-              <a class="btn btn--secondary-light" href="https://www.onecedarvalley.com/" target="_blank" rel="noreferrer">Visit ONE Cedar Valley</a>
+              <a href="mailto:info@onecedarvalley.com?subject=Advancing%20Together%20Inquiry" class="btn btn--primary">Email</a>
+              <a href="https://www.onecedarvalley.com/" target="_blank" rel="noopener" class="btn btn--ghost">Website</a>
             </div>
           </article>
-
-          <article class="contact-card contact-card--resource reveal reveal-delay-3">
-            <p class="contact-card__label">Planning materials</p>
-            <h3>Use the roadmap to start the conversation.</h3>
-            <p>
-              If you are preparing a funding conversation or partnership meeting, the roadmap graphic is the quickest
-              way to orient people to the current priorities and structure.
-            </p>
-            <div class="contact-card__actions">
-              <a class="btn btn--primary" href="CHA Advancing Together.png" download>Download Roadmap Graphic</a>
-              <a class="btn btn--secondary-light" href="#roadmap">Review the Process</a>
-            </div>
-          </article>
+        </div>
+        <div class="reveal" style="margin-top:3.5rem; padding:2rem; background:var(--paper-warm); border:1px solid var(--rule);">
+          <div class="eyebrow" style="margin-bottom:0.75rem;">Planning materials</div>
+          <h3 class="display display--sm" style="margin-bottom:0.5rem;">Use the roadmap to start the conversation.</h3>
+          <p class="body-text">If you're preparing a funding conversation or partnership meeting, the roadmap graphic is the quickest way to orient people to the current priorities and structure.</p>
+          <div class="hero__actions" style="margin-top:1.25rem;">
+            <a href="CHA Advancing Together.png" download class="btn btn--primary">
+              Download roadmap
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M6 1V9M6 9L3 6M6 9L9 6M2 11H10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a href="#roadmap" class="btn btn--secondary">Review the process</a>
+          </div>
         </div>
       </div>
     </section>
+
   </main>
 
   <footer class="footer">
-    <div class="container footer__grid">
-      <div class="footer__brand">
-        <div class="footer__mark">
-          <img src="AT-logo.png" alt="Advancing Together logo" />
+    <div class="container container--wide">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <img src="AT-logo.png" alt="Advancing Together" />
+          <p>Advancing Together is a Cedar Valley collaborative advancing community health improvement and equity across Black Hawk County and surrounding areas.</p>
         </div>
-        <p>
-          Advancing Together is a Cedar Valley collaborative advancing community health improvement and equity across
-          Black Hawk County and surrounding areas.
-        </p>
+        <div class="footer__col">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#priorities">Priorities</a></li>
+            <li><a href="#roadmap">Roadmap</a></li>
+            <li><a href="#story">Story</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4>Engage</h4>
+          <ul>
+            <li><a href="get-involved.html">Get Involved</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+            <li><a href="one-pager.html">Funder one-pager</a></li>
+            <li><a href="action-groups.html">Action Groups</a></li>
+            <li><a href="#connect">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4>Leadership</h4>
+          <ul>
+            <li><a href="#partners">Steering Committee</a></li>
+            <li><a href="#partners">CHIP Committee</a></li>
+            <li><a href="#connect">Funders &amp; Partners</a></li>
+          </ul>
+        </div>
       </div>
-
-      <div class="footer__links">
-        <h3>Explore</h3>
-        <a href="#about">About</a>
-        <a href="#priorities">Priorities</a>
-        <a href="#roadmap">Roadmap</a>
-        <a href="#story">Story</a>
+      <div class="footer__bottom">
+        <div>&copy; 2026 Advancing Together &middot; Cedar Valley, Iowa</div>
+        <div>Formerly Advancing Equity &middot; now aligned with CHIP</div>
       </div>
-
-      <div class="footer__links">
-        <h3>Leadership</h3>
-        <a href="#partners">Steering Committee</a>
-        <a href="#partners">Community Health Improvement</a>
-        <a href="#connect">Funders and Partners</a>
-      </div>
-    </div>
-
-    <div class="container footer__bottom">
-      <p>&copy; 2026 Advancing Together. Cedar Valley, Iowa.</p>
-      <p>Formerly Advancing Equity, now aligned with the Community Health Improvement Plan.</p>
     </div>
   </footer>
 
   <script src="script.js"></script>
 </body>
 </html>
-
-
-
-
-
-
