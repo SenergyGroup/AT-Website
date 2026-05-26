@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "id": "workforce",
+    "title": "Workforce Action Plan",
+    "shortTitle": "Workforce",
+    "actionGroup": "Workforce",
+    "preparedFor": "Advancing Together, Black Hawk County Public Health, and workforce partner organizations",
+    "planPeriod": "July 2026-December 2028",
+    "fiscalYears": "FY26-28",
+    "lastUpdated": "2026-05-26",
+    "downloadUrl": "../downloads/Workforce_Plan_FY26-28.docx",
+    "updateFormUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u",
+    "shortPurpose": "Strengthen navigator capacity, workforce partner alignment, employer connection points, and wraparound support pathways.",
+    "purpose": "This charter-style action plan guides Advancing Together, Black Hawk County Public Health, and partner organizations in implementing Economic Stability Strategies 9, 10, and 12. The work strengthens navigator and liaison capacity, connects employers and workforce agencies with community partners, and improves employment/resource connection points for residents facing language, cultural, logistical, credentialing, reentry, transportation, childcare, or other barriers to care and economic stability.",
+    "coalitionRole": "Advancing Together convenes, aligns, supports, and tracks workforce access strategies while partner agencies lead implementation in their lanes."
+  },
+  "quarters": [
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "dateRange": "Jul-Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "dateRange": "Oct-Dec 2026",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "dateRange": "Jan-Mar 2027",
+      "startDate": "2027-01-01",
+      "endDate": "2027-03-31"
+    },
+    {
+      "id": "Q4",
+      "label": "Q4",
+      "dateRange": "Apr-Jun 2027",
+      "startDate": "2027-04-01",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "Q5",
+      "label": "Q5",
+      "dateRange": "Jul-Sep 2027",
+      "startDate": "2027-07-01",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "Q6",
+      "label": "Q6",
+      "dateRange": "Oct-Dec 2027",
+      "startDate": "2027-10-01",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "Q7",
+      "label": "Q7",
+      "dateRange": "Jan-Mar 2028",
+      "startDate": "2028-01-01",
+      "endDate": "2028-03-31"
+    },
+    {
+      "id": "Q8",
+      "label": "Q8",
+      "dateRange": "Apr-Jun 2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-06-30"
+    },
+    {
+      "id": "Q9",
+      "label": "Q9",
+      "dateRange": "Jul-Sep 2028",
+      "startDate": "2028-07-01",
+      "endDate": "2028-09-30"
+    },
+    {
+      "id": "Q10",
+      "label": "Q10",
+      "dateRange": "Oct-Dec 2028",
+      "startDate": "2028-10-01",
+      "endDate": "2028-12-31"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "strategy-9-navigation-and-liaison-capacity",
+      "title": "Strategy 9: Navigation and liaison capacity",
+      "shortTitle": "Strategy 9: Navigation and liaison capacity",
+      "color": "#1565C0",
+      "outcome": "Tracks strategy 9: navigation and liaison capacity actions in this plan."
+    },
+    {
+      "id": "strategy-10-employer-and-workforce-ecosystem-alignment",
+      "title": "Strategy 10: Employer and workforce ecosystem alignment",
+      "shortTitle": "Strategy 10: Employer and workforce ecosystem alignment",
+      "color": "#2E7D32",
+      "outcome": "Tracks strategy 10: employer and workforce ecosystem alignment actions in this plan."
+    },
+    {
+      "id": "strategy-12-employment-resource-connection-mechanisms",
+      "title": "Strategy 12: Employment/resource connection mechanisms",
+      "shortTitle": "Strategy 12: Employment/resource connection mechanisms",
+      "color": "#EF6C00",
+      "outcome": "Tracks strategy 12: employment/resource connection mechanisms actions in this plan."
+    },
+    {
+      "id": "cross-strategy-governance-pilots-and-sustainability",
+      "title": "Cross-strategy governance, pilots, and sustainability",
+      "shortTitle": "Cross-strategy governance, pilots, and sustainability",
+      "color": "#6A1B9A",
+      "outcome": "Tracks cross-strategy governance, pilots, and sustainability actions in this plan."
+    }
+  ],
+  "statusOptions": [
+    "Planned",
+    "In Progress",
+    "Complete",
+    "Paused"
+  ],
+  "editorNotes": [
+    "After reviewing external form submissions, update the relevant action row status, publicUpdateNote, and lastUpdated fields.",
+    "Use the existing Q1-Q10 quarter IDs so the static Gantt chart continues to render correctly.",
+    "To add future plans, use this same structure in a new JSON file and point a static action-plan page at it."
+  ],
+  "sections": [
+    {
+      "id": "charter-landscape-and-role-clarity",
+      "title": "Charter, Landscape, and Role Clarity",
+      "summary": "Confirm roles, map current infrastructure, align with existing plans, and establish a practical community input process.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q3",
+      "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+      "objectiveColor": "#1565C0",
+      "actions": [
+        {
+          "id": "WRK-01",
+          "title": "Convene the workforce action team and confirm the coalition charter.",
+          "responsibleParties": [
+            "BHCPH Advancing Together Core Team",
+            "One Cedar Valley",
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "River Arc",
+            "Patis Libelulas",
+            "Corporation for a Skilled Workforce",
+            "Hawkeye Community College",
+            "LSI"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Schedule quarterly meetings",
+            "confirm that Strategies 9, 10, and 12 will be managed as a coordinated workforce access strategy",
+            "document lead, core team, and collaborator roles",
+            "define where Advancing Together will convene, align, support, and track"
+          ],
+          "resources": [
+            "Staff and partner meeting time",
+            "worksheet notes",
+            "CHIP Roadmap Summary",
+            "shared agenda, minutes, and file space",
+            "BHCPH coordination support"
+          ],
+          "successIndicators": [
+            "Charter, meeting rhythm, role list, and first-year decision list are documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-02",
+          "title": "Create a landscape map of workforce meetings, navigators, programs, employer initiatives, and community-led efforts.",
+          "responsibleParties": [
+            "BHCPH Core Team",
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "Hawkeye Community College",
+            "LSI",
+            "One Cedar Valley",
+            "24/7 Blac",
+            "Catholic Charities",
+            "Road Home"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Inventory existing meetings, coalitions, programs, navigators, employer panels, job fairs, and community-led efforts",
+            "distinguish groups that should be connected from groups that should remain separate",
+            "note who primarily supports job seekers, employers, training, wraparound supports, or community leadership"
+          ],
+          "resources": [
+            "Interview time",
+            "shared spreadsheet or map",
+            "partner contact lists",
+            "meeting agendas",
+            "BHCPH documentation time"
+          ],
+          "successIndicators": [
+            "Landscape map identifies current infrastructure, gaps, overlap, and practical connection points without assuming groups must merge"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-03",
+          "title": "Align the CHIP workforce work with Grow Cedar Valley, IowaWORKS, Hawkeye, LSI, and related strategic plans.",
+          "responsibleParties": [
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "Hawkeye Community College",
+            "LSI",
+            "BHCPH Core Team",
+            "Corporation for a Skilled Workforce"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "strategy-10-employer-and-workforce-ecosystem-alignment",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Review Grow Cedar Valley Count Me In/Population Study Big Bets and strategic plan direction",
+            "document where CHIP strategies can support existing workforce, education, economic mobility, and navigation priorities",
+            "identify decisions that should wait for partner plans"
+          ],
+          "resources": [
+            "Strategic plan materials",
+            "partner planning time",
+            "CSW research support",
+            "meeting facilitation"
+          ],
+          "successIndicators": [
+            "A one-page alignment memo names shared priorities, partner-owned work, and areas where Advancing Together can add value"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-04",
+          "title": "Set a practical process for community leaders to shape first-year workforce priorities.",
+          "responsibleParties": [
+            "One Cedar Valley",
+            "24/7 Blac",
+            "LSI",
+            "Patis Libelulas",
+            "River Arc",
+            "BHCPH Core Team",
+            "community leaders from groups experiencing employment barriers"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q3",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Meet with immigrant/refugee, Black-led, reentry, and other community leaders to identify workforce barriers and priorities",
+            "determine how leaders will be invited, compensated when resources allow, and protected from unfunded expectations"
+          ],
+          "resources": [
+            "Facilitation time",
+            "interpretation if needed",
+            "stipends or honoraria if available",
+            "accessible meeting materials",
+            "trusted partner outreach"
+          ],
+          "successIndicators": [
+            "Community input process is documented and at least two community-led priorities are reflected in the year 1 pilot selection criteria"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "navigation-and-wraparound-connections",
+      "title": "Navigation and Wraparound Connections",
+      "summary": "Strengthen navigator, liaison, training, and wraparound support pathways for people facing language, cultural, logistical, or credentialing barriers.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q7",
+      "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+      "objectiveColor": "#00897B",
+      "actions": [
+        {
+          "id": "WRK-05",
+          "title": "Define the workforce navigation role within the LSI immigrant/refugee navigation pilot and related community-building work.",
+          "responsibleParties": [
+            "LSI",
+            "One Cedar Valley",
+            "IowaWORKS",
+            "Hawkeye Adult Learning Center",
+            "BHCPH Core Team",
+            "immigrant/refugee community partners"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q4",
+          "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Meet with LSI and workforce partners",
+            "clarify how navigation can connect people to employment, training, English language learning, credential help, transportation, childcare, and other supports",
+            "identify referral handoffs that do not duplicate existing case management"
+          ],
+          "resources": [
+            "LSI pilot planning time",
+            "workforce partner contacts",
+            "referral templates",
+            "interpretation resources",
+            "BHCPH documentation support"
+          ],
+          "successIndicators": [
+            "Pilot design includes workforce referral pathways, partner contacts, and a short list of barriers that navigators can elevate"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-06",
+          "title": "Build a shared navigator and liaison contact list with warm handoff expectations.",
+          "responsibleParties": [
+            "IowaWORKS",
+            "LSI",
+            "Hawkeye Community College",
+            "River Arc",
+            "Patis Libelulas",
+            "Pathways",
+            "One Cedar Valley",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q5",
+          "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Identify navigators, liaisons, adult education contacts, workforce staff, and wraparound support organizations",
+            "create basic warm handoff guidance",
+            "clarify when to refer for employment, training, childcare, transportation, documentation, housing, health, or legal support"
+          ],
+          "resources": [
+            "Shared contact list platform",
+            "staff update time",
+            "privacy and referral guidance",
+            "meeting time to test the process"
+          ],
+          "successIndicators": [
+            "At least 15 navigator or liaison contacts are documented and at least five organizations agree to use or test the handoff guidance"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-07",
+          "title": "Identify one occupation or sector where credentialing or bridge pathway barriers can be studied locally.",
+          "responsibleParties": [
+            "Hawkeye Community College",
+            "IowaWORKS",
+            "LSI",
+            "Corporation for a Skilled Workforce",
+            "Grow Cedar Valley",
+            "employers"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q5",
+          "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Review occupations where internationally trained workers, frontline workers, or people seeking advancement face credential barriers",
+            "consider childcare, health support, manufacturing, or other sectors with partner readiness",
+            "document pathway steps, costs, language needs, and employer interest"
+          ],
+          "resources": [
+            "Research time",
+            "credentialing and licensing information",
+            "employer interviews",
+            "Hawkeye and IowaWORKS program knowledge",
+            "CSW national examples"
+          ],
+          "successIndicators": [
+            "A pathway scan identifies one feasible sector for deeper pilot design and names barriers that require funding or policy support"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-08",
+          "title": "Test the navigator-to-workforce referral pathway with a small group of partners.",
+          "responsibleParties": [
+            "LSI",
+            "IowaWORKS",
+            "Hawkeye Adult Learning Center",
+            "One Cedar Valley",
+            "selected community organizations",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q7",
+          "objectiveId": "strategy-9-navigation-and-liaison-capacity",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Use the shared contact list and referral guidance with a limited number of referrals or event participants",
+            "track common barriers, response time, follow-up needs, and where people fall out of the process"
+          ],
+          "resources": [
+            "Navigator time",
+            "basic tracking tool",
+            "interpretation and transportation support as available",
+            "partner meeting time",
+            "data support"
+          ],
+          "successIndicators": [
+            "Pilot partners document referrals, common barriers, and at least three process improvements for broader use"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "employer-training-and-event-alignment",
+      "title": "Employer, Training, and Event Alignment",
+      "summary": "Use existing employer relationships and workforce events to improve connections to jobs, training, mentorship, advancement, and practical supports.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q3",
+      "endQuarter": "Q8",
+      "objectiveId": "strategy-12-employment-resource-connection-mechanisms",
+      "objectiveColor": "#EF6C00",
+      "actions": [
+        {
+          "id": "WRK-09",
+          "title": "Engage a small employer learning group on practical hiring, onboarding, retention, and advancement barriers.",
+          "responsibleParties": [
+            "Grow Cedar Valley",
+            "SHRM/employer partners",
+            "IowaWORKS",
+            "LSI",
+            "One Cedar Valley",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q5",
+          "objectiveId": "strategy-10-employer-and-workforce-ecosystem-alignment",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Use existing employer conversations, panels, and Grow Cedar Valley relationships to identify employers willing to learn about language, cultural, logistical, reentry, childcare, transportation, and advancement barriers",
+            "gather concrete practice changes employers are willing to test"
+          ],
+          "resources": [
+            "Employer meeting time",
+            "facilitation",
+            "examples from Tent Partnership, Switchboard, and local employers",
+            "communications support"
+          ],
+          "successIndicators": [
+            "At least six employers participate in a learning discussion and at least three identify a practical change or pilot idea"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-10",
+          "title": "Select one or two existing job fairs, resource fairs, panels, or employer meetings to strengthen rather than create a new event.",
+          "responsibleParties": [
+            "IowaWORKS",
+            "Grow Cedar Valley",
+            "One Cedar Valley",
+            "Hawkeye Community College",
+            "LSI",
+            "BHCPH Core Team",
+            "partner event hosts"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q4",
+          "objectiveId": "strategy-12-employment-resource-connection-mechanisms",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Review existing events and employer meetings",
+            "select events where wraparound supports, trusted community partners, interpretation, transportation information, childcare information, training options, or mentorship connections can be added"
+          ],
+          "resources": [
+            "Event calendars",
+            "host planning time",
+            "interpretation and translated materials if needed",
+            "partner outreach",
+            "possible transportation or childcare support information"
+          ],
+          "successIndicators": [
+            "One or two existing events are selected with agreed improvements, partner roles, and success measures"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-11",
+          "title": "Redesign selected workforce events to include wraparound supports and trusted community partners.",
+          "responsibleParties": [
+            "Event hosts",
+            "IowaWORKS",
+            "Grow Cedar Valley",
+            "Hawkeye Community College",
+            "LSI",
+            "community-based organizations",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q6",
+          "objectiveId": "strategy-12-employment-resource-connection-mechanisms",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Add resource tables or referral connections for training, English language learning, childcare, transportation, reentry support, documentation help, and other barriers to care and employment",
+            "include community partners in planning and outreach"
+          ],
+          "resources": [
+            "Event space",
+            "staff and volunteer time",
+            "outreach materials",
+            "interpretation",
+            "resource lists",
+            "incentives or transportation support if available"
+          ],
+          "successIndicators": [
+            "At least one improved event is held or fully planned, and participant/partner feedback identifies what made the event more useful"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q4: Apr-Jun 2027 - Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-12",
+          "title": "Draft a local employer practice checklist for recruiting, onboarding, mentoring, and advancing workers facing barriers.",
+          "responsibleParties": [
+            "Grow Cedar Valley",
+            "employers",
+            "IowaWORKS",
+            "LSI",
+            "Corporation for a Skilled Workforce",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q7",
+          "objectiveId": "strategy-10-employer-and-workforce-ecosystem-alignment",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Adapt promising practices into a simple checklist or conversation guide",
+            "include language access, supervisor communication, scheduling, mentorship, credential pathways, HR paperwork, digital systems, and advancement supports",
+            "test with employers before wider use"
+          ],
+          "resources": [
+            "Practice examples",
+            "employer review time",
+            "communications support",
+            "CSW research assistance",
+            "translation/interpretation input where relevant"
+          ],
+          "successIndicators": [
+            "Draft checklist is tested with at least three employers and revised based on employer and community partner feedback"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-13",
+          "title": "Connect workforce events and employer meetings to training, mentorship, and advancement pathways.",
+          "responsibleParties": [
+            "IowaWORKS",
+            "Hawkeye Community College",
+            "Grow Cedar Valley",
+            "employers",
+            "One Cedar Valley",
+            "Road Home",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q8",
+          "objectiveId": "strategy-12-employment-resource-connection-mechanisms",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Use event and employer feedback to identify follow-up pathways into adult education, work-based learning, apprenticeships, mentoring, entrepreneurship support, reentry employment support, or advancement conversations",
+            "document next steps for people not currently reached"
+          ],
+          "resources": [
+            "Program information",
+            "employer contacts",
+            "follow-up tracking",
+            "mentorship partner time",
+            "transportation and childcare support information"
+          ],
+          "successIndicators": [
+            "At least two follow-up pathways are documented and partners can describe how participants move from events to next-step supports"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q6: Oct-Dec 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "pilot-testing-evaluation-and-sustainability",
+      "title": "Pilot Testing, Evaluation, and Sustainability",
+      "summary": "Select small pilots, pursue feasible funding, track progress, and decide what should continue beyond 2028.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q4",
+      "endQuarter": "Q10",
+      "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "WRK-14",
+          "title": "Choose one employer-facing and one community-facing pilot for implementation or funding development.",
+          "responsibleParties": [
+            "Workforce action team",
+            "BHCPH Core Team",
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "LSI",
+            "One Cedar Valley",
+            "CFNEIA",
+            "funder partners as appropriate"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q5",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Use landscape findings, community input, and partner readiness to select small pilots",
+            "possible options include LSI workforce navigation add-on, employer onboarding practice test, credential pathway scan, childcare workforce pathway, or redesigned job/resource fair"
+          ],
+          "resources": [
+            "Decision criteria",
+            "partner meeting time",
+            "estimated budgets",
+            "funding strategy input",
+            "evaluation support"
+          ],
+          "successIndicators": [
+            "Two pilot concepts are selected with lead partners, scope, budget needs, and measures"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q4: Apr-Jun 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-15",
+          "title": "Develop funding and capacity support for selected workforce pilots and community participation.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "LSI",
+            "One Cedar Valley",
+            "pilot lead organizations"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q8",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Identify funding needs for staff time, community leadership participation, interpretation, transportation information, materials, evaluation, incentives, and technology",
+            "align requests with broader Economic Stability funding work",
+            "support partner-led proposals where appropriate"
+          ],
+          "resources": [
+            "Funding scan",
+            "grant-writing support",
+            "pilot budgets",
+            "partner fiscal capacity",
+            "letters of support",
+            "evaluation plan"
+          ],
+          "successIndicators": [
+            "At least one pilot has a realistic funding path or partner commitment, and community participation costs are included where feasible"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-16",
+          "title": "Track quarterly implementation measures across navigation, employer engagement, events, and pilots.",
+          "responsibleParties": [
+            "BHCPH data/evaluation support",
+            "workforce action team",
+            "pilot leads",
+            "Advancing Together Core Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q10",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Collect simple quarterly measures, including partners participating, navigators connected, employers engaged, events improved, community members connected to training or supports, barriers identified, and pilot lessons",
+            "review data during quarterly meetings"
+          ],
+          "resources": [
+            "Tracking spreadsheet",
+            "staff reporting time",
+            "meeting agenda time",
+            "data support",
+            "partner feedback"
+          ],
+          "successIndicators": [
+            "Quarterly updates are shared with Advancing Together and used to adjust actions, funding requests, and partner follow-up"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-17",
+          "title": "Decide which workforce practices should be sustained, scaled, adapted, or stopped after pilot testing.",
+          "responsibleParties": [
+            "Workforce action team",
+            "Advancing Together Core Team",
+            "Grow Cedar Valley",
+            "IowaWORKS",
+            "Hawkeye Community College",
+            "LSI",
+            "One Cedar Valley",
+            "funder partners"
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q10",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review pilot results, partner capacity, employer feedback, community priorities, funding status, and fit with existing plans",
+            "identify owners for sustained practices and what should move into routine workforce or coalition operations"
+          ],
+          "resources": [
+            "Evaluation summary",
+            "partner and community feedback",
+            "sustainability planning meeting",
+            "funding and staffing estimates"
+          ],
+          "successIndicators": [
+            "Sustainability decision memo names practices to continue, adapt, scale, or stop, with owners and resource needs beyond December 2028"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q8: Apr-Jun 2028 - Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "WRK-18",
+          "title": "Complete the 2028 workforce strategy review and next-cycle recommendations.",
+          "responsibleParties": [
+            "BHCPH Core Team",
+            "Advancing Together coalition",
+            "workforce action team",
+            "strategy leads",
+            "community and employer partners"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "cross-strategy-governance-pilots-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Summarize what was built, what was tested, who was reached, what barriers remain, how the work affected areas with higher burden, and what should be embedded in the next CHIP or partner strategic plans"
+          ],
+          "resources": [
+            "Final data review",
+            "meeting time",
+            "communications support",
+            "partner feedback",
+            "CHIP reporting template"
+          ],
+          "successIndicators": [
+            "Final review includes outcomes, lessons, owners, resource needs, and recommendations for 2029 and beyond"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Workforce source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    }
+  ]
+}

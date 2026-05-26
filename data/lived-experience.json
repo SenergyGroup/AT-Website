@@ -1,0 +1,963 @@
+{
+  "metadata": {
+    "id": "lived-experience",
+    "title": "Lived Experiences Action Plan",
+    "shortTitle": "Lived Experiences",
+    "actionGroup": "Lived Experiences",
+    "preparedFor": "Advancing Together, Black Hawk County Public Health, and lived experience partner organizations",
+    "planPeriod": "July 2026-December 2028",
+    "fiscalYears": "FY26-28",
+    "lastUpdated": "2026-05-26",
+    "downloadUrl": "../downloads/Lived_Experience_Action_Plan_FY26-28.docx",
+    "updateFormUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u",
+    "shortPurpose": "Expand lived experience leadership, strengthen feedback loops, and reduce barriers to community participation in decision-making.",
+    "purpose": "This charter-style action plan guides quarterly work for Advancing Together, Black Hawk County Public Health, and partner organizations to expand an existing lived experience leadership structure and reduce financial and structural barriers for community members contributing to shared decision-making. The plan emphasizes the Community Advisory Council, partner recruitment, feedback loops, and organizational compensation practices.",
+    "coalitionRole": "Advancing Together supports CAC expansion, partner coordination, recommendation tracking, and compensation practices that make participation more accessible."
+  },
+  "quarters": [
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "dateRange": "Jul-Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "dateRange": "Oct-Dec 2026",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "dateRange": "Jan-Mar 2027",
+      "startDate": "2027-01-01",
+      "endDate": "2027-03-31"
+    },
+    {
+      "id": "Q4",
+      "label": "Q4",
+      "dateRange": "Apr-Jun 2027",
+      "startDate": "2027-04-01",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "Q5",
+      "label": "Q5",
+      "dateRange": "Jul-Sep 2027",
+      "startDate": "2027-07-01",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "Q6",
+      "label": "Q6",
+      "dateRange": "Oct-Dec 2027",
+      "startDate": "2027-10-01",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "Q7",
+      "label": "Q7",
+      "dateRange": "Jan-Mar 2028",
+      "startDate": "2028-01-01",
+      "endDate": "2028-03-31"
+    },
+    {
+      "id": "Q8",
+      "label": "Q8",
+      "dateRange": "Apr-Jun 2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-06-30"
+    },
+    {
+      "id": "Q9",
+      "label": "Q9",
+      "dateRange": "Jul-Sep 2028",
+      "startDate": "2028-07-01",
+      "endDate": "2028-09-30"
+    },
+    {
+      "id": "Q10",
+      "label": "Q10",
+      "dateRange": "Oct-Dec 2028",
+      "startDate": "2028-10-01",
+      "endDate": "2028-12-31"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "cac-expansion-and-governance",
+      "title": "CAC expansion and governance",
+      "shortTitle": "CAC expansion and governance",
+      "color": "#1565C0",
+      "outcome": "Tracks cac expansion and governance actions in this plan."
+    },
+    {
+      "id": "representation-and-access-supports",
+      "title": "Representation and access supports",
+      "shortTitle": "Representation and access supports",
+      "color": "#EF6C00",
+      "outcome": "Tracks representation and access supports actions in this plan."
+    },
+    {
+      "id": "feedback-and-accountability",
+      "title": "Feedback and accountability",
+      "shortTitle": "Feedback and accountability",
+      "color": "#2E7D32",
+      "outcome": "Tracks feedback and accountability actions in this plan."
+    },
+    {
+      "id": "compensation-policy-and-sustainability",
+      "title": "Compensation policy and sustainability",
+      "shortTitle": "Compensation policy and sustainability",
+      "color": "#6A1B9A",
+      "outcome": "Tracks compensation policy and sustainability actions in this plan."
+    },
+    {
+      "id": "coordination-and-shared-leadership",
+      "title": "Coordination and shared leadership",
+      "shortTitle": "Coordination and shared leadership",
+      "color": "#00838F",
+      "outcome": "Tracks coordination and shared leadership actions in this plan."
+    }
+  ],
+  "statusOptions": [
+    "Planned",
+    "In Progress",
+    "Complete",
+    "Paused"
+  ],
+  "editorNotes": [
+    "After reviewing external form submissions, update the relevant action row status, publicUpdateNote, and lastUpdated fields.",
+    "Use the existing Q1-Q10 quarter IDs so the static Gantt chart continues to render correctly.",
+    "To add future plans, use this same structure in a new JSON file and point a static action-plan page at it."
+  ],
+  "sections": [
+    {
+      "id": "governance-and-cac-expansion",
+      "title": "Governance and CAC Expansion",
+      "summary": "Confirm roles, charter expectations, and the expanded CAC meeting structure.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q3",
+      "objectiveId": "cac-expansion-and-governance",
+      "objectiveColor": "#1565C0",
+      "actions": [
+        {
+          "id": "LIV-01",
+          "title": "Confirm the expanded Community Advisory Council scope and charter review process.",
+          "responsibleParties": [
+            "BHCPH Advancing Together Core Team",
+            "Black Hawk Grundy Mental Health",
+            "24/7 Blac"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "cac-expansion-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Review draft CAC charter with current CAC members",
+            "confirm purpose, member expectations, confidentiality, participation supports, and how recommendations move to Advancing Together and partner organizations"
+          ],
+          "resources": [
+            "BHCPH staff time",
+            "current CAC charter",
+            "meeting time",
+            "translation and interpretation budget if needed",
+            "CAC member compensation"
+          ],
+          "successIndicators": [
+            "Draft charter is reviewed with CAC members and at least three revisions or confirmations from members are documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-02",
+          "title": "Convene lead and core partner planning meeting to assign year-one roles.",
+          "responsibleParties": [
+            "BHCPH",
+            "Black Hawk Grundy Mental Health",
+            "24/7 Blac",
+            "ISU Extension",
+            "Iowa Heartland Habitat for Humanity",
+            "River Arc",
+            "Patis Libelulas",
+            "FRIENDS",
+            "One City United",
+            "LSI"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "cac-expansion-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Confirm who will help plan, recruit, host, interpret, document, and report back",
+            "identify partners whose role is advisory, support, or implementation",
+            "note United Way follow-up once staffing is in place"
+          ],
+          "resources": [
+            "Partner meeting time",
+            "facilitation",
+            "role matrix",
+            "contact list",
+            "shared file space or email distribution list"
+          ],
+          "successIndicators": [
+            "Role matrix is completed with at least six partner organizations assigned to a concrete year-one role"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-03",
+          "title": "Set the FY27 CAC calendar and topic plan for five total meetings by June 30, 2027.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "CAH grant staff",
+            "core partners"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "cac-expansion-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Align two CAH-supported meetings and three BHCPH-supported meetings",
+            "select topics tied to economic stability barriers",
+            "reserve locations",
+            "identify interpretation, translation, food, transportation, and follow-up needs"
+          ],
+          "resources": [
+            "CAH grant support",
+            "BHCPH budget for additional meetings",
+            "venue space",
+            "interpreter contracts",
+            "translated materials",
+            "food and transportation supports"
+          ],
+          "successIndicators": [
+            "Calendar, topics, and support needs are confirmed for five meetings through June 2027"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-04",
+          "title": "Host a second CAC session using the expanded meeting structure.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "CAH grant staff or topic partners",
+            "interpreters"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q3",
+          "objectiveId": "cac-expansion-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Use lessons from the first expanded session",
+            "invite partner presenters only when aligned with member priorities",
+            "test non-email reminders and additional participation supports identified in the scan"
+          ],
+          "resources": [
+            "Meeting space",
+            "interpretation and translation",
+            "compensation",
+            "reminder calls/texts",
+            "food",
+            "transportation support"
+          ],
+          "successIndicators": [
+            "Attendance, participation supports used, recommendations, and member feedback are documented and compared with the prior session"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "representation-and-participation-supports",
+      "title": "Representation and Participation Supports",
+      "summary": "Recruit people not currently reached and test practical access supports.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q4",
+      "objectiveId": "representation-and-access-supports",
+      "objectiveColor": "#EF6C00",
+      "actions": [
+        {
+          "id": "LIV-05",
+          "title": "Complete a representation, access, and participation-barrier scan for CAC membership.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "partner recruiters",
+            "Community Health Workers"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "representation-and-access-supports",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Compare CAC applications and attendance with available data on areas with higher burden",
+            "document barriers such as transportation, language access, childcare, meeting times, trust, technology, payment processes, and clarity of purpose"
+          ],
+          "resources": [
+            "CAC application and attendance records",
+            "public health data",
+            "partner input",
+            "CHW time",
+            "simple tracking spreadsheet"
+          ],
+          "successIndicators": [
+            "Scan identifies priority outreach gaps and at least five practical participation supports to test in year one"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-06",
+          "title": "Launch partner-supported recruitment for people not currently reached by the CAC.",
+          "responsibleParties": [
+            "BHCPH",
+            "Community Health Workers",
+            "One City United",
+            "LSI",
+            "FRIENDS",
+            "Patis Libelulas",
+            "NAMI or behavioral health partners",
+            "older-adult-serving partners as available"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q4",
+          "objectiveId": "representation-and-access-supports",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Use trusted messengers, language options, QR and paper sign-up options, and relationship-based outreach to invite community members with experience of economic barriers, homelessness or housing instability, behavioral health needs, immigrant/refugee experiences, or older adult needs"
+          ],
+          "resources": [
+            "Recruitment flyer",
+            "translated materials",
+            "CHW and partner staff time",
+            "interpretation",
+            "application tracking",
+            "phone and non-email follow-up"
+          ],
+          "successIndicators": [
+            "At least four partner organizations complete recruitment activities and new applicants or participants reflect at least three identified outreach gaps"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-07",
+          "title": "Host the first expanded FY27 CAC session on economic stability barriers and recommendations.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "core partners serving as topic resources"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "representation-and-access-supports",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Provide interpretation and translated materials",
+            "compensate participants",
+            "use facilitation that documents barriers, recommendations, and who has authority to respond",
+            "include a clear next-step explanation before adjournment"
+          ],
+          "resources": [
+            "Meeting space",
+            "food",
+            "interpretation and translation",
+            "participant compensation",
+            "transportation support",
+            "facilitation supplies",
+            "note-taker"
+          ],
+          "successIndicators": [
+            "Session is held with documented recommendations, attendance, languages supported, payments processed, and next steps shared with participants"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-08",
+          "title": "Host a third CAC session with shared agenda-setting or co-facilitation tested.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "possible community co-facilitator",
+            "core partners"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "representation-and-access-supports",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Ask CAC members to choose or refine part of the agenda",
+            "test a community member role such as welcome, discussion lead, or co-facilitator",
+            "document what support was needed for that role"
+          ],
+          "resources": [
+            "Facilitator preparation time",
+            "compensation for added role if allowable",
+            "interpretation",
+            "meeting space",
+            "facilitation guide"
+          ],
+          "successIndicators": [
+            "At least one shared agenda-setting or co-facilitation practice is tested and member feedback is captured"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "feedback-tracking-and-use-of-recommendations",
+      "title": "Feedback, Tracking, and Use of Recommendations",
+      "summary": "Track recommendations, report back to participants, and connect input to coalition action.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q10",
+      "objectiveId": "feedback-and-accountability",
+      "objectiveColor": "#2E7D32",
+      "actions": [
+        {
+          "id": "LIV-09",
+          "title": "Build a recommendation tracking and feedback-loop template.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "partner organizations with authority to act on recommendations"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q3",
+          "objectiveId": "feedback-and-accountability",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Create categories for acted on, referred, pending, and not feasible",
+            "identify the receiving organization or coalition",
+            "define how updates will be returned to CAC members and shared with Advancing Together"
+          ],
+          "resources": [
+            "Tracking spreadsheet or database",
+            "staff time",
+            "meeting minutes",
+            "reporting template",
+            "shared file location"
+          ],
+          "successIndicators": [
+            "Template is used for all recommendations from expanded CAC sessions, and each recommendation has an owner or referral path"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-10",
+          "title": "Produce a year-one CAC summary and action/referral report.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "partner organizations receiving recommendations"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "feedback-and-accountability",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Summarize meetings held, participation supports, outreach gaps, recommendations, actions taken, referrals, pending items, and lessons for FY28",
+            "return the summary to CAC members in accessible formats"
+          ],
+          "resources": [
+            "Staff writing time",
+            "recommendation tracker",
+            "translation",
+            "Advancing Together meeting time",
+            "distribution list"
+          ],
+          "successIndicators": [
+            "Report is shared with CAC members, Advancing Together, and partner organizations, with status assigned to each recommendation"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-11",
+          "title": "Hold topic-based CAC or lived experience sessions tied to partner action areas.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "partner organizations with authority over selected topics",
+            "Advancing Together Core Team"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q8",
+          "objectiveId": "feedback-and-accountability",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Select topics from CAC priorities and partner needs",
+            "clarify before each meeting what can change, what can be referred, and what is outside the group authority",
+            "update the recommendation tracker after each session"
+          ],
+          "resources": [
+            "Meeting and interpretation budget",
+            "partner subject-matter time",
+            "compensation",
+            "transportation and food supports",
+            "recommendation tracker"
+          ],
+          "successIndicators": [
+            "At least three topic-based sessions are held or scheduled, and 100% of recommendations receive an action, referral, pending, or not feasible status"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q6: Oct-Dec 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-12",
+          "title": "Integrate CAC recommendations into Advancing Together quarterly convenings and progress tracking.",
+          "responsibleParties": [
+            "Advancing Together Core Team",
+            "BHCPH",
+            "strategy workgroups",
+            "data hub staff or partners"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q10",
+          "objectiveId": "feedback-and-accountability",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Add a standing lived experience input update to quarterly convenings",
+            "connect recommendations to strategy workgroups",
+            "identify indicators that can be tracked in the data hub or coalition reports"
+          ],
+          "resources": [
+            "Quarterly meeting agenda time",
+            "recommendation tracker",
+            "data hub or reporting support",
+            "staff analysis time"
+          ],
+          "successIndicators": [
+            "CAC or lived experience input is reviewed at least quarterly and appears in coalition progress reporting"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q7: Jan-Mar 2028 - Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-13",
+          "title": "Complete a final 2026-2028 summary and 2029 sustainability workplan.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "CAC members",
+            "core partners"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "feedback-and-accountability",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Summarize action-plan completion, meetings held, participation supports, recommendations acted on or referred, compensation policy progress, remaining gaps, and next-year decisions",
+            "return results to CAC members and partners"
+          ],
+          "resources": [
+            "Staff writing time",
+            "tracker data",
+            "translation if needed",
+            "Advancing Together meeting time",
+            "partner review"
+          ],
+          "successIndicators": [
+            "Final summary and 2029 workplan are completed, shared with CAC members and Advancing Together, and used to set next-cycle priorities"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "compensation-policy-and-resource-sustainability",
+      "title": "Compensation Policy and Resource Sustainability",
+      "summary": "Operationalize compensation, support partner policy adaptation, and plan for resources.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q9",
+      "objectiveId": "compensation-policy-and-sustainability",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "LIV-14",
+          "title": "Finalize BHCPH internal procedures for compensating community members.",
+          "responsibleParties": [
+            "BHCPH administration",
+            "BHCPH program staff",
+            "Black Hawk County fiscal staff as needed"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Document payment workflow, required forms, timing, allowable roles, and options for reducing structural barriers to payment",
+            "clarify whether participant, advisor, co-facilitator, and planning roles can be compensated differently"
+          ],
+          "resources": [
+            "Existing BHCPH compensation policy",
+            "fiscal staff time",
+            "payment forms",
+            "budget authority",
+            "plain-language participant instructions"
+          ],
+          "successIndicators": [
+            "SOP is approved for CAC use and payment steps are ready before the first expanded FY27 meeting"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-15",
+          "title": "Share BHCPH community compensation policy examples and collect partner policy questions.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "interested partner organizations"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q4",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Present BHCPH policy and SOP lessons",
+            "collect barriers partners face with payments, procurement, gift cards, stipends, mileage, childcare, or role-based compensation",
+            "identify which questions require policy or fiscal review"
+          ],
+          "resources": [
+            "Policy examples",
+            "staff presentation time",
+            "partner fiscal or leadership time",
+            "shared notes",
+            "meeting agenda time"
+          ],
+          "successIndicators": [
+            "At least five organizations receive the policy example and at least three policy or process barriers are documented for follow-up"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-16",
+          "title": "Develop a FY28/FY29 resource and funding plan for CAC continuation and participation supports.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "Cedar Valley United Way when staffing allows",
+            "partner funders or hosts"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q5",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Estimate costs for meetings, compensation, interpretation, translation, transportation, food, childcare, co-facilitator roles, and staff time",
+            "identify which needs can be met through existing grants, in-kind partner support, or new funding"
+          ],
+          "resources": [
+            "Budget template",
+            "grant and fiscal information",
+            "partner contribution commitments",
+            "staff planning time"
+          ],
+          "successIndicators": [
+            "Draft resource plan identifies committed resources, unfunded needs, and any policy or funding decisions needed for FY28/FY29"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q4: Apr-Jun 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-17",
+          "title": "Develop a community compensation toolkit or policy brief for partner organizations.",
+          "responsibleParties": [
+            "BHCPH",
+            "interested partner organizations",
+            "Advancing Together Core Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q6",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Package BHCPH examples, payment workflow lessons, role definitions, budget considerations, and participation-support options",
+            "include decision points for organizations adapting their own policies"
+          ],
+          "resources": [
+            "BHCPH policy materials",
+            "staff drafting time",
+            "partner review time",
+            "design or formatting support"
+          ],
+          "successIndicators": [
+            "Toolkit or brief is completed and shared through Advancing Together with a clear invitation for partner follow-up"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-18",
+          "title": "Provide partner technical assistance for compensation policy adoption or adaptation.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "interested partner organizations"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q8",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Offer office hours or small-group consultation",
+            "help partners identify decision-makers, payment barriers, budget needs, and policy language",
+            "document which organizations adopt, adapt, or defer changes"
+          ],
+          "resources": [
+            "BHCPH staff time",
+            "toolkit",
+            "partner fiscal and leadership time",
+            "meeting time",
+            "sample language"
+          ],
+          "successIndicators": [
+            "At least three organizations take a documented step toward adopting, adapting, or formalizing compensation practices"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q6: Oct-Dec 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-19",
+          "title": "Confirm sustainability agreements for CAC meetings and community leadership supports through December 2028.",
+          "responsibleParties": [
+            "BHCPH",
+            "Advancing Together Core Team",
+            "core partners",
+            "funders or host organizations as available"
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q8",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Confirm meeting frequency, staffing, hosting, compensation, interpretation, translation, transportation, and community advisor roles for the remainder of 2028",
+            "flag unresolved funding or policy decisions"
+          ],
+          "resources": [
+            "Updated budget",
+            "partner commitments",
+            "meeting calendar",
+            "leadership role descriptions",
+            "fiscal review time"
+          ],
+          "successIndicators": [
+            "Written sustainability commitments cover core meeting operations through December 2028, or unresolved needs are escalated with a decision timeline"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-20",
+          "title": "Evaluate progress on shared leadership and compensation practices.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "Advancing Together Core Team",
+            "partner organizations using compensation practices"
+          ],
+          "startQuarter": "Q9",
+          "endQuarter": "Q9",
+          "objectiveId": "compensation-policy-and-sustainability",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review member feedback, attendance patterns, payment timeliness, partner policy progress, advisor/co-facilitator roles, and use of CAC recommendations",
+            "update charter, SOP, or toolkit as needed"
+          ],
+          "resources": [
+            "Survey or interview tool",
+            "payment records",
+            "meeting records",
+            "staff analysis time",
+            "partner updates"
+          ],
+          "successIndicators": [
+            "Evaluation summary identifies progress, remaining barriers, and specific changes to sustain or improve the model"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q9: Jul-Sep 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "coordination-with-lived-experience-groups-and-shared-leadership",
+      "title": "Coordination with Lived Experience Groups and Shared Leadership",
+      "summary": "Coordinate with existing groups and test shared leadership roles without duplication.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q3",
+      "endQuarter": "Q8",
+      "objectiveId": "coordination-and-shared-leadership",
+      "objectiveColor": "#00838F",
+      "actions": [
+        {
+          "id": "LIV-21",
+          "title": "Scan CAC-like and lived experience groups to avoid duplication and identify coordination options.",
+          "responsibleParties": [
+            "BHCPH",
+            "FRIENDS",
+            "Stand with Immigrants contacts",
+            "RIYO/CVAIRR contacts as available",
+            "NAMI or homeless coordinating board contacts"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q4",
+          "objectiveId": "coordination-and-shared-leadership",
+          "objectiveColor": "#00838F",
+          "keyTasks": [
+            "Map groups, focus areas, meeting rhythm, participant supports, and leadership structure",
+            "ask where coordination would help and where groups prefer to remain separate",
+            "identify community-led models worth learning from"
+          ],
+          "resources": [
+            "Partner interview time",
+            "simple inventory template",
+            "relationship-based outreach",
+            "meeting notes"
+          ],
+          "successIndicators": [
+            "Inventory documents at least five groups or engagement structures and names at least two coordination opportunities or guardrails against duplication"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-22",
+          "title": "Adjust CAC membership and operations based on year-one findings.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "recruitment partners",
+            "Advancing Together Core Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q5",
+          "objectiveId": "coordination-and-shared-leadership",
+          "objectiveColor": "#00838F",
+          "keyTasks": [
+            "Use the year-one report and representation scan to update recruitment priorities, meeting supports, reminder methods, agenda design, and member expectations",
+            "confirm what changes are feasible within available resources"
+          ],
+          "resources": [
+            "Year-one report",
+            "CAC member feedback",
+            "staff time",
+            "revised recruitment materials",
+            "updated charter if needed"
+          ],
+          "successIndicators": [
+            "Updated operating approach is documented and at least two participation barriers are addressed through changed practice"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-23",
+          "title": "Pilot community advisor or co-facilitator roles in CAC planning.",
+          "responsibleParties": [
+            "BHCPH",
+            "CAC members",
+            "community advisors",
+            "core partners"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q6",
+          "objectiveId": "coordination-and-shared-leadership",
+          "objectiveColor": "#00838F",
+          "keyTasks": [
+            "Define role options",
+            "invite interested members",
+            "provide preparation support",
+            "compensate added responsibilities where allowable",
+            "document what decisions community advisors can influence"
+          ],
+          "resources": [
+            "Role descriptions",
+            "compensation funds",
+            "staff coaching time",
+            "interpretation if needed",
+            "planning meeting time"
+          ],
+          "successIndicators": [
+            "At least two community members participate in a planning, advisor, or co-facilitation role and report that expectations were clear"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "LIV-24",
+          "title": "Coordinate with CAC-like groups on participation supports and referral pathways.",
+          "responsibleParties": [
+            "BHCPH",
+            "FRIENDS",
+            "Stand with Immigrants contacts",
+            "immigrant/refugee-serving partners",
+            "homelessness and behavioral health partners"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q8",
+          "objectiveId": "coordination-and-shared-leadership",
+          "objectiveColor": "#00838F",
+          "keyTasks": [
+            "Use the group scan to identify where shared interpretation, translation, transportation, outreach, or reporting practices could help",
+            "avoid asking the same participants for repeated input without feedback"
+          ],
+          "resources": [
+            "Coordination meetings",
+            "inventory",
+            "partner staff time",
+            "shared templates",
+            "participation-support funds as available"
+          ],
+          "successIndicators": [
+            "At least two coordination practices are agreed to, such as shared referral language, meeting calendars, support resources, or feedback-loop expectations"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Lived Experiences source materials. Implementation is scheduled for Q7: Jan-Mar 2028 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Workforce Action Plan | Advancing Together</title>
+  <meta name="description" content="Static public dashboard for the Advancing Together Health Sector CHIP action plan, including Gantt timeline, action details, responsible parties, and public updates." />
+  <link rel="icon" type="image/png" href="../AT-logo.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..700,0..100,0..1;1,9..144,300..700,0..100,0..1&family=Archivo:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../assets/css/site.css" />
+</head>
+<body class="action-plan-page">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+
+  <nav class="nav" id="nav">
+    <div class="container container--wide">
+      <div class="nav__inner">
+        <a href="../index.html" class="nav__brand" aria-label="Advancing Together home">
+          <img src="../AT-logo.png" alt="" />
+          <span class="nav__brand-text">
+            <span class="nav__brand-name">Advancing Together</span>
+            <span class="nav__brand-loc">Cedar Valley &middot; Iowa</span>
+          </span>
+        </a>
+        <ul class="nav__desktop" role="menubar">
+          <li><a href="../index.html#about">About</a></li>
+          <li><a href="../index.html#priorities">Priorities</a></li>
+          <li><a href="../index.html#roadmap">Roadmap</a></li>
+          <li><a href="../index.html#partners">Partners</a></li>
+          <li><a href="index.html" class="active">Action Plans</a></li>
+          <li><a href="../action-groups.html">Action Groups</a></li>
+          <li><a href="../get-involved.html">Get Involved</a></li>
+        </ul>
+        <a href="../get-involved.html" class="nav__cta">
+          Join the list
+          <svg class="nav__cta-arrow" width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <button class="nav__toggle" id="nav-toggle" aria-label="Open navigation menu" aria-expanded="false" aria-controls="mobile-nav">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <div class="mobile-nav" id="mobile-nav" aria-hidden="true">
+    <button class="mobile-nav__close" id="mobile-close" aria-label="Close menu">Close</button>
+    <ul>
+      <li><a href="../index.html#about"><span class="num">01</span>About</a></li>
+      <li><a href="../index.html#priorities"><span class="num">02</span>Priorities</a></li>
+      <li><a href="../index.html#roadmap"><span class="num">03</span>Roadmap</a></li>
+      <li><a href="../index.html#partners"><span class="num">04</span>Partners</a></li>
+      <li><a href="index.html"><span class="num">05</span>Action Plans</a></li>
+      <li><a href="../action-groups.html"><span class="num">06</span>Action Groups</a></li>
+      <li><a href="../get-involved.html"><span class="num">07</span>Get Involved</a></li>
+      <li><a href="../newsletter.html"><span class="num">08</span>Newsletter</a></li>
+    </ul>
+    <a href="../get-involved.html" class="mobile-nav__cta">
+      Join our email list
+      <svg width="14" height="14" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+  </div>
+
+  <header class="page-header action-plan-hero">
+    <div class="container">
+      <div class="page-header__meta">
+        <a href="../index.html">&larr; Advancing Together</a>
+        <span>&middot;</span>
+        <span>Action Plans</span>
+      </div>
+      <div class="action-plan-hero__grid" data-action-plan-root data-plan-url="../data/workforce.json">
+        <div>
+          <span class="eyebrow">Community Health Improvement Plan</span>
+          <h1 id="plan-title" class="reveal">Workforce Action Plan</h1>
+          <p class="page-header__lede reveal reveal--delay-1" id="plan-purpose">Loading the Workforce action plan.</p>
+          <div class="action-plan-actions reveal reveal--delay-2">
+            <a href="../downloads/Workforce_Plan_FY26-28.docx" class="btn btn--primary" data-download-link download>
+              Download Word snapshot
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M6 1V9M6 9L3 6M6 9L9 6M2 11H10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+            <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u" class="btn btn--secondary" data-update-link target="_blank" rel="noopener">
+              Submit an update
+              <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          </div>
+          <div class="plan-switcher reveal reveal--delay-2">
+            <label for="plan-switcher">View another action plan</label>
+            <select id="plan-switcher">
+              <option value="health-sector.html">Health Sector</option>
+              <option value="funding.html">Funding</option>
+              <option value="workforce.html">Workforce</option>
+              <option value="communications.html">Communications</option>
+              <option value="lived-experience.html">Lived Experiences</option>
+              <option value="policy.html">Policy</option>
+            </select>
+          </div>
+        </div>
+        <aside class="action-plan-hero__aside reveal reveal--delay-2" aria-label="Plan facts">
+          <div class="action-plan-facts">
+            <div class="action-plan-fact">
+              <div class="action-plan-fact__label">Prepared for</div>
+              <div class="action-plan-fact__value" id="plan-prepared-for">Black Hawk County Public Health and Advancing Together</div>
+            </div>
+            <div class="action-plan-fact">
+              <div class="action-plan-fact__label">Plan period</div>
+              <div class="action-plan-fact__value" id="plan-period">July 2026-December 2028</div>
+            </div>
+            <div class="action-plan-fact">
+              <div class="action-plan-fact__label">Last updated</div>
+              <div class="action-plan-fact__value" id="plan-last-updated">May 26, 2026</div>
+            </div>
+            <div class="action-plan-fact">
+              <div class="action-plan-fact__label">Coalition role</div>
+              <div class="action-plan-fact__value" id="plan-coalition-role">Advancing Together convenes, aligns, supports, and tracks this work.</div>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </header>
+
+  <main id="main-content">
+    <section class="section section--deep" aria-labelledby="objectives-heading">
+      <div class="container">
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 01</span>
+            <span class="eyebrow">Objective Outcomes</span>
+          </div>
+          <h2 class="section-head__title" id="objectives-heading">The Workforce plan connects navigator capacity, employer partnerships, and resource connection points into one <em>shared timeline.</em></h2>
+        </div>
+        <div class="objective-strip" id="objective-strip" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section" id="workplan" aria-labelledby="workplan-heading">
+      <div class="container container--wide">
+        <div class="section-head reveal">
+          <div class="section-head__meta">
+            <span class="section-num">&sect; 02</span>
+            <span class="eyebrow">Action Plan Hub</span>
+          </div>
+          <h2 class="section-head__title" id="workplan-heading">Filter the work by section, objective, responsible party, quarter, or status.</h2>
+        </div>
+
+        <noscript>
+          <div class="error-state">This static action plan uses front-end JavaScript to load local JSON data. Please enable JavaScript to view the Gantt chart and action details.</div>
+        </noscript>
+
+        <div class="filter-panel reveal">
+          <div class="filter-panel__header">
+            <h3 class="filter-panel__title">Filters</h3>
+            <div class="results-note" id="result-count" aria-live="polite">Loading actions</div>
+          </div>
+          <div class="filter-grid">
+            <div class="filter-field">
+              <label for="filter-section">Section</label>
+              <select id="filter-section"></select>
+            </div>
+            <div class="filter-field">
+              <label for="filter-objective">Objective</label>
+              <select id="filter-objective"></select>
+            </div>
+            <div class="filter-field">
+              <label for="filter-responsible">Responsible party</label>
+              <select id="filter-responsible"></select>
+            </div>
+            <div class="filter-field">
+              <label for="filter-quarter">Quarter</label>
+              <select id="filter-quarter"></select>
+            </div>
+            <div class="filter-field">
+              <label for="filter-status">Status</label>
+              <select id="filter-status"></select>
+            </div>
+          </div>
+          <div class="action-plan-actions">
+            <button class="btn btn--ghost" type="button" id="reset-filters">Reset filters</button>
+          </div>
+        </div>
+
+        <div id="plan-loading" class="loading-state" aria-live="polite">Loading Health Sector action plan data.</div>
+
+        <div class="chart-region reveal">
+          <div class="objective-legend" id="objective-legend" aria-label="Objective color legend"></div>
+          <section class="chart-wrap" aria-label="Accordion Gantt chart">
+            <div class="chart" id="gantt-chart"></div>
+          </section>
+          <p class="chart-notes">Combined rows are for scanning across time. Expand each section with the caret to view the individual action-plan line items and their objective colors.</p>
+        </div>
+
+        <div class="action-details" aria-labelledby="details-heading">
+          <div class="section-head" style="margin-bottom:1.5rem;">
+            <div class="section-head__meta">
+              <span class="section-num">&sect; 03</span>
+              <span class="eyebrow">Action Details</span>
+            </div>
+            <h2 class="section-head__title" id="details-heading">Line-item tasks, resources, indicators, and public updates.</h2>
+          </div>
+          <div id="action-details" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container container--wide">
+      <div class="footer__inner">
+        <div class="footer__brand">
+          <img src="../AT-logo.png" alt="Advancing Together" />
+          <p>Advancing Together is a Cedar Valley collaborative advancing community health improvement and equity across Black Hawk County and surrounding areas.</p>
+        </div>
+        <div class="footer__col">
+          <h4>Explore</h4>
+          <ul>
+            <li><a href="../index.html#about">About</a></li>
+            <li><a href="../index.html#priorities">Priorities</a></li>
+            <li><a href="../index.html#roadmap">Roadmap</a></li>
+            <li><a href="../index.html#story">Story</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4>Engage</h4>
+          <ul>
+            <li><a href="../get-involved.html">Get Involved</a></li>
+            <li><a href="../newsletter.html">Newsletter</a></li>
+            <li><a href="index.html">Action Plan Hub</a></li>
+            <li><a href="health-sector.html">Health Sector Action Plan</a></li>
+            <li><a href="../action-groups.html">Action Groups</a></li>
+            <li><a href="../index.html#connect">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer__col">
+          <h4>Leadership</h4>
+          <ul>
+            <li><a href="../index.html#partners">Steering Committee</a></li>
+            <li><a href="../index.html#partners">CHIP Committee</a></li>
+            <li><a href="../index.html#connect">Funders &amp; Partners</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer__bottom">
+        <div>&copy; 2026 Advancing Together &middot; Cedar Valley, Iowa</div>
+        <div>Formerly Advancing Equity &middot; now aligned with CHIP</div>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../script.js"></script>
+  <script src="../assets/js/action-plan.js"></script>
+</body>
+</html>

@@ -165,7 +165,7 @@ section { position: relative; z-index: 2; }
   margin-top: 2px;
 }
 
-.nav__desktop { display: flex; align-items: center; gap: 2rem; list-style: none; }
+.nav__desktop { display: flex; align-items: center; gap: clamp(0.9rem, 1.4vw, 2rem); list-style: none; }
 
 .nav__desktop a {
   font-size: 0.875rem;

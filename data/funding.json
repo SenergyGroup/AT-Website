@@ -1,0 +1,733 @@
+{
+  "metadata": {
+    "id": "funding",
+    "title": "Funding and Infrastructure Action Plan",
+    "shortTitle": "Funding and Infrastructure",
+    "actionGroup": "Funding",
+    "preparedFor": "CFNEIA, Black Hawk County Public Health, Advancing Together Core Team, and partner organizations",
+    "planPeriod": "July 2026-December 2028",
+    "fiscalYears": "FY26-28",
+    "lastUpdated": "2026-05-26",
+    "downloadUrl": "../downloads/Funding_and_Infrastructure_Action_Plan_FY26-28.docx",
+    "updateFormUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u",
+    "shortPurpose": "Map funding needs, align funder conversations, support partner proposals, and sustain coalition infrastructure.",
+    "purpose": "This charter-style action plan guides CFNEIA, Black Hawk County Public Health, the Advancing Together Core Team, and partner organizations in implementing Economic Stability Strategies 3 and 5. It turns the funding worksheet into a quarterly work plan for aligning partners, mapping needs, engaging funders, responding to emerging issues, and sustaining coalition infrastructure for residents most affected by economic barriers.",
+    "coalitionRole": "Advancing Together helps align partner needs, funding opportunities, rapid-response decisions, and infrastructure conversations without replacing partner-led fundraising."
+  },
+  "quarters": [
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "dateRange": "Jul-Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "dateRange": "Oct-Dec 2026",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "dateRange": "Jan-Mar 2027",
+      "startDate": "2027-01-01",
+      "endDate": "2027-03-31"
+    },
+    {
+      "id": "Q4",
+      "label": "Q4",
+      "dateRange": "Apr-Jun 2027",
+      "startDate": "2027-04-01",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "Q5",
+      "label": "Q5",
+      "dateRange": "Jul-Sep 2027",
+      "startDate": "2027-07-01",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "Q6",
+      "label": "Q6",
+      "dateRange": "Oct-Dec 2027",
+      "startDate": "2027-10-01",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "Q7",
+      "label": "Q7",
+      "dateRange": "Jan-Mar 2028",
+      "startDate": "2028-01-01",
+      "endDate": "2028-03-31"
+    },
+    {
+      "id": "Q8",
+      "label": "Q8",
+      "dateRange": "Apr-Jun 2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-06-30"
+    },
+    {
+      "id": "Q9",
+      "label": "Q9",
+      "dateRange": "Jul-Sep 2028",
+      "startDate": "2028-07-01",
+      "endDate": "2028-09-30"
+    },
+    {
+      "id": "Q10",
+      "label": "Q10",
+      "dateRange": "Oct-Dec 2028",
+      "startDate": "2028-10-01",
+      "endDate": "2028-12-31"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "funding-landscape-and-governance",
+      "title": "Funding landscape and governance",
+      "shortTitle": "Funding landscape and governance",
+      "color": "#1565C0",
+      "outcome": "Tracks funding landscape and governance actions in this plan."
+    },
+    {
+      "id": "shared-funding-process-and-funder-engagement",
+      "title": "Shared funding process and funder engagement",
+      "shortTitle": "Shared funding process and funder engagement",
+      "color": "#2E7D32",
+      "outcome": "Tracks shared funding process and funder engagement actions in this plan."
+    },
+    {
+      "id": "rapid-response-proposals-and-technical-assistance",
+      "title": "Rapid response, proposals, and technical assistance",
+      "shortTitle": "Rapid response, proposals, and technical assistance",
+      "color": "#EF6C00",
+      "outcome": "Tracks rapid response, proposals, and technical assistance actions in this plan."
+    },
+    {
+      "id": "sustainability-evaluation-and-reporting",
+      "title": "Sustainability, evaluation, and reporting",
+      "shortTitle": "Sustainability, evaluation, and reporting",
+      "color": "#6A1B9A",
+      "outcome": "Tracks sustainability, evaluation, and reporting actions in this plan."
+    }
+  ],
+  "statusOptions": [
+    "Planned",
+    "In Progress",
+    "Complete",
+    "Paused"
+  ],
+  "editorNotes": [
+    "After reviewing external form submissions, update the relevant action row status, publicUpdateNote, and lastUpdated fields.",
+    "Use the existing Q1-Q10 quarter IDs so the static Gantt chart continues to render correctly.",
+    "To add future plans, use this same structure in a new JSON file and point a static action-plan page at it."
+  ],
+  "sections": [
+    {
+      "id": "funding-landscape-and-governance",
+      "title": "Funding Landscape and Governance",
+      "summary": "Confirm roles, decision authority, current investments, gaps, and first-year funding needs.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q2",
+      "objectiveId": "funding-landscape-and-governance",
+      "objectiveColor": "#1565C0",
+      "actions": [
+        {
+          "id": "FND-01",
+          "title": "Convene the Strategy 3 and 5 funding action team and confirm the combined charter.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Advancing Together Core Team",
+            "Waterloo Community Mobility Hub",
+            "Cedar Valley United Way",
+            "INRCOG",
+            "Waterloo Economic Mobility Hub"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "funding-landscape-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Schedule quarterly meetings",
+            "confirm that Strategies 3 and 5 will be managed as one funding and infrastructure strategy",
+            "document lead, core team, and collaborator roles",
+            "identify decisions needed by the end of Q2"
+          ],
+          "resources": [
+            "Staff and partner meeting time",
+            "worksheet notes",
+            "CHIP Roadmap Summary",
+            "shared agenda and documentation space",
+            "CFNEIA convening capacity"
+          ],
+          "successIndicators": [
+            "Team charter, meeting rhythm, lead roles, and first-year decision list are documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-02",
+          "title": "Collect all Economic Stability action plans and create a first funding-needs inventory.",
+          "responsibleParties": [
+            "BHCPH Core Team",
+            "CFNEIA",
+            "Economic Stability strategy leads"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "funding-landscape-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Ask each action planning team what needs funding, who would implement it, whether the need is one-time, pilot, or ongoing, and whether it supports staffing, program delivery, infrastructure, communications, evaluation, incentives, transportation, or community compensation"
+          ],
+          "resources": [
+            "Action plan drafts",
+            "survey or spreadsheet template",
+            "BHCPH data/support time",
+            "strategy lead follow-up time"
+          ],
+          "successIndicators": [
+            "Inventory includes year 1 and 2026-2028 funding needs for each Economic Stability strategy"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-03",
+          "title": "Document current pilots, investments, and local funding examples that already support CHIP priorities.",
+          "responsibleParties": [
+            "CFNEIA",
+            "Metro Funders representatives as available",
+            "partner organizations",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "funding-landscape-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Capture early examples such as the LSI pilot, House of Hope, banks, One City United, One Cedar Valley, immigrant/refugee resource navigation work, and related nonprofit investments",
+            "note what is funded, by whom, and what gaps remain"
+          ],
+          "resources": [
+            "Partner interviews",
+            "existing grant summaries",
+            "Metro Funders knowledge",
+            "local funder and business relationship information",
+            "staff analysis time"
+          ],
+          "successIndicators": [
+            "A draft funding landscape map summarizes current investments, early examples, gaps, and opportunities without duplicating partner fundraising work"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-04",
+          "title": "Clarify decision authority for Advancing Together funding alignment, fiscal sponsorship, and use of the coalition name.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Advancing Together Core Team",
+            "Black Hawk County",
+            "core partner leadership"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "funding-landscape-and-governance",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Define who can authorize Advancing Together support for applications, when CFNEIA or another partner could serve as fiscal sponsor, how decisions are documented, and what needs broader coalition or funder input"
+          ],
+          "resources": [
+            "Leadership meeting time",
+            "fiscal sponsorship and grant management guidance",
+            "draft decision memo",
+            "legal or finance review if needed"
+          ],
+          "successIndicators": [
+            "Decision authority memo identifies approval paths, documentation expectations, and issues needing additional review"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "shared-funding-process-and-funder-engagement",
+      "title": "Shared Funding Process and Funder Engagement",
+      "summary": "Build practical tools for coordinated funding decisions, funder-facing communication, and local engagement.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q4",
+      "objectiveId": "shared-funding-process-and-funder-engagement",
+      "objectiveColor": "#2E7D32",
+      "actions": [
+        {
+          "id": "FND-05",
+          "title": "Develop a funding opportunity decision tree for partner-led, coalition-supported, and rapid-response requests.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Cedar Valley United Way",
+            "INRCOG",
+            "Waterloo Economic Mobility Hub"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q3",
+          "objectiveId": "shared-funding-process-and-funder-engagement",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Create shared questions for funding opportunities, including fit with CHIP strategies, implementer readiness, funding type, sustainability, evaluation needs, partner impact, and whether Advancing Together should endorse, co-develop, support, or stay out"
+          ],
+          "resources": [
+            "Facilitation time",
+            "grant-writing knowledge",
+            "examples from prior national applications",
+            "shared flowchart or worksheet platform"
+          ],
+          "successIndicators": [
+            "Draft decision tree is ready for partner testing and includes a short timeline for opportunity review"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-06",
+          "title": "Create a funder-facing overview of Economic Stability strategies, gaps, partners, and investment opportunities.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH communications",
+            "Advancing Together Core Team",
+            "Economic Stability strategy leads"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q3",
+          "objectiveId": "shared-funding-process-and-funder-engagement",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Translate the funding landscape and CHIP strategies into a clear story for local, state, and national funders",
+            "show how investments can support coordination, programs, staffing, evaluation, communications, and people not currently reached"
+          ],
+          "resources": [
+            "Communications and design time",
+            "CHIP Roadmap Summary",
+            "funding-needs inventory",
+            "partner examples",
+            "data support"
+          ],
+          "successIndicators": [
+            "A concise overview is approved for use in funder conversations and partner proposal support"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-07",
+          "title": "Engage Metro Funders and selected local employers before making specific funding requests.",
+          "responsibleParties": [
+            "CFNEIA",
+            "Metro Funders",
+            "local employers such as Veridian and health system partners",
+            "BHCPH Core Team"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q3",
+          "objectiveId": "shared-funding-process-and-funder-engagement",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Share the draft landscape map and overview",
+            "ask what information funders need",
+            "discuss lessons from COVID-response funding",
+            "identify where aligned funding or employer investment may be realistic"
+          ],
+          "resources": [
+            "Funder meeting time",
+            "presentation materials",
+            "current investment map",
+            "follow-up documentation"
+          ],
+          "successIndicators": [
+            "At least one structured funder conversation occurs and priority information needs are documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-08",
+          "title": "Design simple criteria and review steps for rapid-response or micro-grant support.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Metro Funders advisors as available",
+            "community-serving partners"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q4",
+          "objectiveId": "shared-funding-process-and-funder-engagement",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Define eligible uses such as micro-grants, community events, emergency needs, capacity-building, policy recommendations, or small pilots",
+            "set a short decision timeline, reporting expectations, and safeguards so the process does not pull support away from core work"
+          ],
+          "resources": [
+            "Micro-grant examples",
+            "funder input",
+            "simple application and scoring tool",
+            "meeting time",
+            "potential flexible-fund target"
+          ],
+          "successIndicators": [
+            "Rapid-response draft criteria, review process, and minimum flexible-funding estimate are ready for pilot consideration"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-09",
+          "title": "Finalize the shared funding process toolkit for use by strategy teams and proposal partners.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Economic Stability strategy leads",
+            "partner grant writers"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "shared-funding-process-and-funder-engagement",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Package the funding-needs inventory, decision tree, funder overview, rapid-response criteria, and proposal support expectations",
+            "orient strategy teams to when and how to use the tools"
+          ],
+          "resources": [
+            "Toolkit formatting time",
+            "shared drive or webpage space",
+            "meeting platform",
+            "staff orientation time"
+          ],
+          "successIndicators": [
+            "Toolkit is available to partners and at least three strategy teams use it to clarify funding needs or opportunities"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "rapid-response-and-opportunity-response",
+      "title": "Rapid Response and Opportunity Response",
+      "summary": "Test rapid-response support, scan outside opportunities, and strengthen partner-led proposals.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q4",
+      "endQuarter": "Q8",
+      "objectiveId": "rapid-response-proposals-and-technical-assistance",
+      "objectiveColor": "#EF6C00",
+      "actions": [
+        {
+          "id": "FND-10",
+          "title": "Test the rapid-response or micro-grant process with a limited first round if flexible funds are available.",
+          "responsibleParties": [
+            "CFNEIA",
+            "Metro Funders or aligned local funders",
+            "BHCPH Core Team",
+            "selected community partners"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q5",
+          "objectiveId": "rapid-response-proposals-and-technical-assistance",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Select a small number of emerging needs or pilot ideas",
+            "use the draft criteria and short review timeline",
+            "prioritize requests tied to CHIP strategies, areas with higher burden, and partners with fewer administrative resources"
+          ],
+          "resources": [
+            "Flexible funds if secured",
+            "application and review time",
+            "fiscal management",
+            "basic reporting template",
+            "possible community reviewer stipends"
+          ],
+          "successIndicators": [
+            "First-round requests are reviewed and funded or deferred with clear reasons and lessons for process improvement"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q4: Apr-Jun 2027 - Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-11",
+          "title": "Maintain a state, regional, and national funding opportunity scan tied to Economic Stability strategies.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "partner grant writers",
+            "Corporation for a Skilled Workforce",
+            "INRCOG"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q7",
+          "objectiveId": "rapid-response-proposals-and-technical-assistance",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Track opportunities related to economic stability, immigrant/refugee resource navigation, workforce, housing, transportation, community infrastructure, and coalition backbone support",
+            "note deadlines, fit, match requirements, and likely applicants"
+          ],
+          "resources": [
+            "Grant alert sources",
+            "staff or consultant scan time",
+            "shared tracker",
+            "partner expertise on eligibility and match"
+          ],
+          "successIndicators": [
+            "Opportunity tracker is reviewed quarterly and at least four viable outside opportunities are assessed by Q7"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q4: Apr-Jun 2027 - Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-12",
+          "title": "Provide proposal-readiness support for smaller or community-led organizations connected to priority strategies.",
+          "responsibleParties": [
+            "CFNEIA",
+            "Cedar Valley United Way",
+            "BHCPH Core Team",
+            "experienced nonprofit partners",
+            "community-led organizations"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q6",
+          "objectiveId": "rapid-response-proposals-and-technical-assistance",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Offer light technical assistance on budgets, outcomes, fiscal sponsorship options, data needs, and partner roles",
+            "connect organizations with larger applicants when that strengthens reach without sidelining community trust"
+          ],
+          "resources": [
+            "Grant-writing technical assistance time",
+            "budget templates",
+            "evaluation support",
+            "fiscal sponsorship guidance",
+            "possible stipends or consultant support"
+          ],
+          "successIndicators": [
+            "At least three smaller or community-led organizations receive readiness support or are included in aligned proposal development"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-13",
+          "title": "Support aligned partner proposals that bring new dollars into the community for CHIP-related work.",
+          "responsibleParties": [
+            "Lead applicant organizations",
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Advancing Together partners"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q8",
+          "objectiveId": "rapid-response-proposals-and-technical-assistance",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Use the decision tree to decide whether Advancing Together will provide letters, data, coordination support, partner alignment, or fiscal sponsorship",
+            "avoid unnecessary competition for existing local funds",
+            "document what the coalition contributed"
+          ],
+          "resources": [
+            "Data and narrative support",
+            "letters of alignment",
+            "partner meeting time",
+            "grant-writing capacity",
+            "fiscal management support where appropriate"
+          ],
+          "successIndicators": [
+            "At least two partner proposals are supported, aligned, or strengthened through the shared process by Q8"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-14",
+          "title": "Track outcomes and lessons from funded pilots, rapid-response requests, and proposal support.",
+          "responsibleParties": [
+            "Funded partners",
+            "CFNEIA",
+            "BHCPH data/evaluation support",
+            "Advancing Together Core Team"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q8",
+          "objectiveId": "rapid-response-proposals-and-technical-assistance",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Collect basic information on reach, funding used, barriers addressed, people not currently reached, implementation lessons, and whether the activity should continue, scale, adapt, or stop"
+          ],
+          "resources": [
+            "Simple evaluation template",
+            "partner reporting time",
+            "data support",
+            "meeting time to interpret results"
+          ],
+          "successIndicators": [
+            "Pilot and proposal-support lessons are summarized and used to refine criteria, funder messaging, and 2028 priorities"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q6: Oct-Dec 2027 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "sustainability-evaluation-and-reporting",
+      "title": "Sustainability, Evaluation, and Reporting",
+      "summary": "Sustain funding coordination, evaluate pilots, and report progress through Advancing Together routines.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q7",
+      "endQuarter": "Q10",
+      "objectiveId": "sustainability-evaluation-and-reporting",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "FND-15",
+          "title": "Update the funding landscape map and identify braided, blended, or pooled funding options for backbone support.",
+          "responsibleParties": [
+            "CFNEIA",
+            "Metro Funders",
+            "BHCPH Core Team",
+            "local funders and employers",
+            "fiscal/finance advisors"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q8",
+          "objectiveId": "sustainability-evaluation-and-reporting",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review current investments and gaps",
+            "identify whether coordination, communications, evaluation, convening, and partner alignment can be funded through braided sources, pooled local funds, outside grants, or employer investment"
+          ],
+          "resources": [
+            "Updated inventory",
+            "funder meetings",
+            "finance guidance",
+            "backbone cost estimates",
+            "fiscal sponsorship infrastructure"
+          ],
+          "successIndicators": [
+            "Sustainability memo identifies realistic funding mechanisms for coalition infrastructure and Economic Stability implementation"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q7: Jan-Mar 2028 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-16",
+          "title": "Refine community-informed input for funding priorities and rapid-response decisions.",
+          "responsibleParties": [
+            "CFNEIA",
+            "lived experience leadership partners",
+            "BHCPH Core Team",
+            "community-serving organizations"
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q8",
+          "objectiveId": "sustainability-evaluation-and-reporting",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Connect with lived experience strategy partners to determine practical ways for residents affected by economic barriers to inform priority setting, review criteria, or pilot design without creating unnecessary burden"
+          ],
+          "resources": [
+            "Meeting facilitation",
+            "community compensation or stipends if available",
+            "accessible materials",
+            "partner outreach time"
+          ],
+          "successIndicators": [
+            "Funding process includes a practical method for community-informed input on priorities or pilot design"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-17",
+          "title": "Report quarterly funding coordination progress to Advancing Together and funder partners.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Advancing Together coalition",
+            "Metro Funders as appropriate"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q10",
+          "objectiveId": "sustainability-evaluation-and-reporting",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Share updates on funding needs, opportunities reviewed, proposals supported, rapid-response requests, new dollars pursued or secured, funded pilots, lessons learned, and barriers needing coalition attention"
+          ],
+          "resources": [
+            "Quarterly agenda time",
+            "tracking spreadsheet",
+            "funder overview updates",
+            "communications support"
+          ],
+          "successIndicators": [
+            "Quarterly reports are shared and used to guide coalition decisions, funder conversations, and partner follow-up"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q7: Jan-Mar 2028 - Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "FND-18",
+          "title": "Complete the 2028 review and sustainability plan for Economic Stability funding coordination.",
+          "responsibleParties": [
+            "CFNEIA",
+            "BHCPH Core Team",
+            "Economic Stability strategy leads",
+            "key funders and partner organizations"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "sustainability-evaluation-and-reporting",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review what was built, which tools were used, what funding was pursued or secured, how smaller organizations participated, which pilots showed promise, and what ownership, staffing, fiscal, and evaluation supports are needed beyond 2028"
+          ],
+          "resources": [
+            "Evaluation time",
+            "tracking data",
+            "partner and funder feedback",
+            "sustainability planning meeting",
+            "updated landscape map"
+          ],
+          "successIndicators": [
+            "Final review names owners, funding needs, refresh schedule, and next-step decisions for sustaining the process beyond December 2028"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Funding and Infrastructure source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    }
+  ]
+}

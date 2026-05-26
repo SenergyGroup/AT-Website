@@ -1,0 +1,762 @@
+{
+  "metadata": {
+    "id": "health-sector",
+    "title": "Integrated Health Sector Action Plan: Economic Stability Strategies, July 2026-December 2028",
+    "shortTitle": "Health Sector Action Plan",
+    "actionGroup": "Health Sector",
+    "preparedFor": "Black Hawk County Public Health and Advancing Together in the Cedar Valley",
+    "planPeriod": "July 2026-December 2028",
+    "fiscalYears": "FY26-28",
+    "lastUpdated": "2026-05-26",
+    "downloadUrl": "../downloads/Integrated_Health_Sector_Action_Plan_FY26-28.docx",
+    "updateFormUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u",
+    "shortPurpose": "Coordinate shared cancer prevention, screening, navigation, and barrier-reduction work across Health Sector partners.",
+    "purpose": "This charter-style action plan combines Health Sector Objectives 1-3 into one coordinated 2.5-year plan. For this CHIP cycle, Q1 begins July 1, 2026. The plan focuses on shared cancer prevention and screening communication, beginning with breast and prostate cancer awareness and connecting messaging to tobacco cessation, radon testing, vaccination, screening, navigation, transportation, financial assistance, and follow-up care.",
+    "coalitionRole": "Advancing Together and the Health Sector partners convene, align, support, and track this work while implementation remains distributed across health and community-resource partners."
+  },
+  "quarters": [
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "dateRange": "Jul-Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "dateRange": "Oct-Dec 2026",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "dateRange": "Jan-Mar 2027",
+      "startDate": "2027-01-01",
+      "endDate": "2027-03-31"
+    },
+    {
+      "id": "Q4",
+      "label": "Q4",
+      "dateRange": "Apr-Jun 2027",
+      "startDate": "2027-04-01",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "Q5",
+      "label": "Q5",
+      "dateRange": "Jul-Sep 2027",
+      "startDate": "2027-07-01",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "Q6",
+      "label": "Q6",
+      "dateRange": "Oct-Dec 2027",
+      "startDate": "2027-10-01",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "Q7",
+      "label": "Q7",
+      "dateRange": "Jan-Mar 2028",
+      "startDate": "2028-01-01",
+      "endDate": "2028-03-31"
+    },
+    {
+      "id": "Q8",
+      "label": "Q8",
+      "dateRange": "Apr-Jun 2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-06-30"
+    },
+    {
+      "id": "Q9",
+      "label": "Q9",
+      "dateRange": "Jul-Sep 2028",
+      "startDate": "2028-07-01",
+      "endDate": "2028-09-30"
+    },
+    {
+      "id": "Q10",
+      "label": "Q10",
+      "dateRange": "Oct-Dec 2028",
+      "startDate": "2028-10-01",
+      "endDate": "2028-12-31"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "objective-1-prevention-risk-factor-reduction",
+      "title": "Objective 1: Prevention/Risk Factor Reduction",
+      "shortTitle": "Prevention/Risk Factor Reduction",
+      "color": "#2E7D32",
+      "outcome": "By December 31, 2028, at least 5 community organizations partner to implement or expand prevention/risk reduction strategies in areas with higher cancer or chronic disease burden."
+    },
+    {
+      "id": "objective-2-early-detection-and-screening",
+      "title": "Objective 2: Early Detection and Screening",
+      "shortTitle": "Early Detection and Screening",
+      "color": "#1565C0",
+      "outcome": "By December 31, 2028, at least 3 collaborative outreach and barrier-reduction strategies support participation in age- and risk-appropriate screenings."
+    },
+    {
+      "id": "objective-3-barriers-to-care",
+      "title": "Objective 3: Barriers to Care",
+      "shortTitle": "Barriers to Care",
+      "color": "#EF6C00",
+      "outcome": "By December 31, 2028, a community-wide collaboration system supports updated resource directories, referral/case-management awareness, more aligned intake where feasible, and cross-sector relationship-building and training."
+    },
+    {
+      "id": "integrated-overlap-actions",
+      "title": "Integrated/Overlap Actions",
+      "shortTitle": "Integrated/Overlap Actions",
+      "color": "#6A1B9A",
+      "outcome": "Cross-objective actions that support prevention, screening, navigation, barrier reduction, reporting, or sustainability."
+    }
+  ],
+  "statusOptions": [
+    "Planned",
+    "In Progress",
+    "Complete",
+    "Paused"
+  ],
+  "editorNotes": [
+    "After reviewing external form submissions, update the relevant action row status, publicUpdateNote, and lastUpdated fields.",
+    "Use the existing Q1-Q10 quarter IDs so the static Gantt chart continues to render correctly.",
+    "To add future plans, use this same structure in a new JSON file and point a static action-plan page at it."
+  ],
+  "sections": [
+    {
+      "id": "foundation-and-scope-setting",
+      "title": "Foundation and scope-setting",
+      "summary": "Launch the core team, confirm the charter, and use local data to lock the first-year focus.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q1",
+      "objectiveId": "integrated-overlap-actions",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "HS-01",
+          "title": "Establish the integrated Health Sector core team and charter.",
+          "responsibleParties": [
+            "BHCPH lead",
+            "PCHC, MercyOne, UnityPoint",
+            "Pathways invited."
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Confirm monthly meeting rhythm",
+            "approve combined Objectives 1-3 scope",
+            "identify PIO/communications contacts",
+            "invite Pathways, school district contacts, health educators, care management, CHWs, Thrive/resource mapping, TAC, and housing/transportation liaisons as needed"
+          ],
+          "resources": [
+            "Staff time for convening, agendas, facilitation, and partner outreach"
+          ],
+          "successIndicators": [
+            "Core team confirms charter, meeting schedule, roles, and 5+ partner organizations to engage"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-02",
+          "title": "Complete a focused landscape and data review.",
+          "responsibleParties": [
+            "BHCPH data/convening",
+            "health systems support."
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review local cancer/chronic disease burden",
+            "prioritize breast and prostate awareness",
+            "connect prevention messages to tobacco cessation, radon testing, vaccination, and downstream screening",
+            "identify areas and people not currently reached"
+          ],
+          "resources": [
+            "Staff data time",
+            "existing CHA/CHIP data",
+            "partner screening and utilization knowledge"
+          ],
+          "successIndicators": [
+            "Priority geography/population focus and first-year screening focus are documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "shared-prevention-and-screening-communications",
+      "title": "Shared prevention and screening communications",
+      "summary": "Build one shared voice for breast/prostate cancer awareness connected to smoking cessation, radon testing, vaccination, and screening.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q10",
+      "objectiveId": "objective-1-prevention-risk-factor-reduction",
+      "objectiveColor": "#2E7D32",
+      "actions": [
+        {
+          "id": "HS-03",
+          "title": "Build a shared cancer prevention and screening message framework.",
+          "responsibleParties": [
+            "BHCPH communications",
+            "PIOs from PCHC, MercyOne, UnityPoint."
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Create common message points for breast/prostate cancer awareness, tobacco cessation, radon, vaccination, and screening",
+            "inventory existing campaigns such as Your Life Iowa, Iowa Cancer Consortium, Iowa Immunization Coalition, ALA/ACS resources",
+            "avoid duplicating existing campaigns"
+          ],
+          "resources": [
+            "PIO staff time",
+            "existing campaign materials",
+            "limited design, translation, and plain-language review if needed"
+          ],
+          "successIndicators": [
+            "Shared message toolkit draft completed and approved by communications partners"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-04",
+          "title": "Launch coordinated awareness campaign phase 1.",
+          "responsibleParties": [
+            "BHCPH PIO lead",
+            "partner PIOs amplify."
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q3",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Release aligned messages through partner channels",
+            "emphasize breast/prostate awareness, smoking cessation connection, radon testing, vaccination, and age/risk-appropriate screening",
+            "coordinate message timing across organizations"
+          ],
+          "resources": [
+            "Communications staff time",
+            "printing/social media costs if used",
+            "existing partner channels"
+          ],
+          "successIndicators": [
+            "At least 4 organizations share aligned messages",
+            "reach/engagement is tracked quarterly"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-05",
+          "title": "Complete campaign phase 1 by June 2027 and shift to ongoing shared communications system.",
+          "responsibleParties": [
+            "BHCPH and partner PIOs"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Run final phase of initial awareness campaign",
+            "document lessons learned",
+            "set process for future shared topics so PIOs can coordinate beyond one campaign"
+          ],
+          "resources": [
+            "PIO staff time",
+            "evaluation support",
+            "possible design/printing costs"
+          ],
+          "successIndicators": [
+            "Campaign summary completed",
+            "standing shared-communications process adopted"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-06",
+          "title": "Continue coordinated prevention/screening communications.",
+          "responsibleParties": [
+            "Partner PIO group"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q7",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Use shared communications system for cancer prevention, tobacco cessation, radon testing, vaccination, and screening reminders",
+            "adapt message channels based on reach data"
+          ],
+          "resources": [
+            "PIO time",
+            "existing channels",
+            "limited paid/printed outreach if available"
+          ],
+          "successIndicators": [
+            "Quarterly message calendar completed and used by multiple partners"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-07",
+          "title": "Maintain coordinated messaging through closeout.",
+          "responsibleParties": [
+            "PIO group"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Continue united-front communications on cancer prevention, screening, cessation, radon, vaccination, and resource navigation",
+            "document reusable templates and annual calendar opportunities"
+          ],
+          "resources": [
+            "PIO staff time",
+            "existing communication channels"
+          ],
+          "successIndicators": [
+            "Shared communications system is ready to continue beyond 2028"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "screening-workflow-pilot-and-expansion",
+      "title": "Screening workflow, pilot, and expansion",
+      "summary": "Move from workflow mapping to a small pilot, then refine and expand screening outreach based on what is learned.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q8",
+      "objectiveId": "objective-2-early-detection-and-screening",
+      "objectiveColor": "#1565C0",
+      "actions": [
+        {
+          "id": "HS-08",
+          "title": "Map screening, referral, and follow-up workflows.",
+          "responsibleParties": [
+            "PCHC clinical workflow lead",
+            "MercyOne, UnityPoint, BHCPH mobile clinic/care navigation support."
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Map mammogram, prostate, colorectal, cervical, and lung-screening education pathways",
+            "document billing/funding barriers",
+            "clarify next steps after positive screening",
+            "identify PCP/medical home handoffs and specialist notification needs"
+          ],
+          "resources": [
+            "Clinical and care management staff time",
+            "billing input",
+            "possible meeting time with specialists"
+          ],
+          "successIndicators": [
+            "Draft workflow map completed for at least breast/prostate and one additional screening pathway"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-09",
+          "title": "Design a small collaborative screening and barrier-reduction pilot.",
+          "responsibleParties": [
+            "PCHC, MercyOne, UnityPoint",
+            "BHCPH mobile clinic support as feasible."
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q3",
+          "objectiveId": "objective-2-early-detection-and-screening",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Choose one small pilot approach based on data and feasibility",
+            "define target location/audience",
+            "confirm staffing, billing, supplies, incentives, transportation supports, charity care/discount education, and follow-up process"
+          ],
+          "resources": [
+            "Staff planning time",
+            "possible test/supply costs",
+            "possible gas cards/incentives",
+            "transportation partner time"
+          ],
+          "successIndicators": [
+            "Pilot plan approved, including follow-up workflow and resource needs"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-10",
+          "title": "Implement first small screening/barrier-reduction pilot.",
+          "responsibleParties": [
+            "Clinical partners lead",
+            "BHCPH and community partners support."
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Conduct pilot outreach or screening activity",
+            "track attendance, first-time screenings where possible, referral completion, barriers identified, and follow-up needs",
+            "connect participants to PCP/medical home when feasible"
+          ],
+          "resources": [
+            "Clinical staffing",
+            "screening supplies/tests",
+            "mobile clinic if used",
+            "incentives/transportation support if available"
+          ],
+          "successIndicators": [
+            "Pilot completed",
+            "participant count, first-time screening count, and follow-up needs documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-11",
+          "title": "Refine campaign and pilot based on results.",
+          "responsibleParties": [
+            "Core team",
+            "PIOs",
+            "clinical workflow leads."
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q5",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review campaign metrics and pilot data",
+            "adjust messages, locations, referral steps, and partner roles",
+            "decide whether to add radon kit distribution, tobacco referral prompts, or vaccine education touchpoints"
+          ],
+          "resources": [
+            "Staff analysis time",
+            "meeting facilitation",
+            "existing program materials"
+          ],
+          "successIndicators": [
+            "Core team approves revised Year 2 implementation approach"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-12",
+          "title": "Expand screening/referral model to additional setting or screening focus.",
+          "responsibleParties": [
+            "Clinical partners",
+            "BHCPH mobile clinic support as feasible."
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q8",
+          "objectiveId": "objective-2-early-detection-and-screening",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Add one additional screening outreach, education, or referral focus based on prior results",
+            "notify specialists and PCP partners",
+            "continue tracking first-time screenings and follow-up completion"
+          ],
+          "resources": [
+            "Clinical staffing",
+            "supplies/testing",
+            "possible mobile clinic staffing",
+            "incentives/transportation support"
+          ],
+          "successIndicators": [
+            "At least 3 collaborative outreach/barrier-reduction strategies have been implemented or are underway"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "tobacco-radon-and-cessation-referral-pathway-build-out",
+      "title": "Tobacco, radon, and cessation referral pathway build-out",
+      "summary": "Clarify cessation, radon, and MCO-related referral pathways so prevention messages connect to concrete next steps.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q5",
+      "endQuarter": "Q5",
+      "objectiveId": "objective-1-prevention-risk-factor-reduction",
+      "objectiveColor": "#2E7D32",
+      "actions": [
+        {
+          "id": "HS-13",
+          "title": "Strengthen tobacco cessation and radon referral pathways.",
+          "responsibleParties": [
+            "Pathways, BHCPH, PCHC, MercyOne, UnityPoint"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q5",
+          "objectiveId": "objective-1-prevention-risk-factor-reduction",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Clarify Iowa Quitline/cessation referral process",
+            "identify low/no-cost supports and MCO coverage",
+            "connect radon education/testing to lung cancer awareness",
+            "define referral tracking options within existing workflows"
+          ],
+          "resources": [
+            "Staff workflow time",
+            "Pathways expertise",
+            "radon kit resources",
+            "MCO information"
+          ],
+          "successIndicators": [
+            "Standard cessation/radon referral guide completed for partner use"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "barrier-reduction-resource-navigation-and-training",
+      "title": "Barrier reduction, resource navigation, and training",
+      "summary": "Address transportation, cost, resource navigation, and follow-up barriers that affect screening and care.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q6",
+      "endQuarter": "Q8",
+      "objectiveId": "objective-3-barriers-to-care",
+      "objectiveColor": "#EF6C00",
+      "actions": [
+        {
+          "id": "HS-14",
+          "title": "Expand outreach and barrier-reduction strategies.",
+          "responsibleParties": [
+            "Core team",
+            "community partners",
+            "care managers/CHWs."
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q6",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Expand to additional site or partner channel",
+            "include transportation, appointment availability, cost, charity care/discount awareness, and follow-up support",
+            "coordinate with TAC/housing/food partners when barriers overlap"
+          ],
+          "resources": [
+            "Staff time",
+            "transportation coordination",
+            "possible incentives",
+            "possible local foundation/grant exploration"
+          ],
+          "successIndicators": [
+            "At least 2 barrier-reduction strategies are active and tracked"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-15",
+          "title": "Compare resource directories and navigation tools.",
+          "responsibleParties": [
+            "BHCPH, Thrive, BHC social work, PCHC, MercyOne, UnityPoint"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q6",
+          "objectiveId": "objective-3-barriers-to-care",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Compare Thrive, 211, FindHelp, internal care-management lists, and partner referral processes",
+            "identify duplication, gaps, update responsibilities, and barriers when resources are unavailable or waitlisted"
+          ],
+          "resources": [
+            "Staff time",
+            "resource/navigation platform access",
+            "liaison participation"
+          ],
+          "successIndicators": [
+            "Directory/referral gap summary completed with recommended shared update process"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-16",
+          "title": "Implement shared resource and referral coordination improvements.",
+          "responsibleParties": [
+            "BHCPH convenes",
+            "Thrive/resource partners and clinical partners support."
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q7",
+          "objectiveId": "objective-3-barriers-to-care",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Pilot a shared update process for priority cancer-related social/economic resources",
+            "clarify intake information needed by partners",
+            "create training topic list for CHWs, care managers, and navigators"
+          ],
+          "resources": [
+            "Staff coordination time",
+            "possible training materials",
+            "technology/platform meeting time"
+          ],
+          "successIndicators": [
+            "Shared update process piloted",
+            "training plan drafted"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-17",
+          "title": "Hold cross-sector training/relationship-building session.",
+          "responsibleParties": [
+            "BHCPH convenes",
+            "CHWs, care managers, TAC, housing/food/resource partners participate."
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q8",
+          "objectiveId": "objective-3-barriers-to-care",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Train partners on screening referral pathways, resource navigation, transportation supports, financial assistance/charity care information, and handoffs after positive screenings"
+          ],
+          "resources": [
+            "Staff time",
+            "meeting space/virtual platform",
+            "training materials"
+          ],
+          "successIndicators": [
+            "Training held with participation from health and community-resource partners"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "sustainability-reporting-and-transition",
+      "title": "Sustainability, reporting, and transition",
+      "summary": "Document what continues after 2028, compile outcomes, and prepare next-cycle recommendations.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q9",
+      "endQuarter": "Q10",
+      "objectiveId": "integrated-overlap-actions",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "HS-18",
+          "title": "Formalize sustainability plan.",
+          "responsibleParties": [
+            "BHCPH, PCHC, MercyOne, UnityPoint",
+            "Advancing Together leadership."
+          ],
+          "startQuarter": "Q9",
+          "endQuarter": "Q9",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Decide which workflows continue after 2028",
+            "document owners for PIO coordination, referral guides, resource directory updates, screening outreach, and quarterly reporting",
+            "identify funding needs"
+          ],
+          "resources": [
+            "Leadership/staff time",
+            "possible grant/foundation exploration",
+            "partner commitments"
+          ],
+          "successIndicators": [
+            "Sustainability owners and resource needs documented"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q9: Jul-Sep 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-19",
+          "title": "Prepare year-end outcome review.",
+          "responsibleParties": [
+            "BHCPH data lead",
+            "core partners provide data."
+          ],
+          "startQuarter": "Q9",
+          "endQuarter": "Q9",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Compile partner participation, campaign reach, screening outreach, first-time screening counts where available, referral pathway adoption, barrier themes, and resource coordination progress"
+          ],
+          "resources": [
+            "Data/reporting staff time",
+            "partner data sharing"
+          ],
+          "successIndicators": [
+            "Draft outcome dashboard or summary completed"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q9: Jul-Sep 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "HS-20",
+          "title": "Complete final implementation and transition to next CHIP cycle.",
+          "responsibleParties": [
+            "Core team and Advancing Together"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "integrated-overlap-actions",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Confirm objective outcomes",
+            "identify what should be sustained, scaled, adapted, or stopped",
+            "prepare recommendations for the next planning cycle"
+          ],
+          "resources": [
+            "Staff time",
+            "final reporting/design support"
+          ],
+          "successIndicators": [
+            "Final 2026-2028 action summary completed and shared with partners"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Health Sector Action Plan source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    }
+  ]
+}

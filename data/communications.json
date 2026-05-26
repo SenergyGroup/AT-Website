@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "id": "communications",
+    "title": "Communications Action Plan",
+    "shortTitle": "Communications",
+    "actionGroup": "Communications",
+    "preparedFor": "Advancing Together Communications Team, Black Hawk County Public Health, and partner organizations",
+    "planPeriod": "July 2026-December 2028",
+    "fiscalYears": "FY26-28",
+    "lastUpdated": "2026-05-26",
+    "downloadUrl": "../downloads/Communications_Action_Plan_FY26-28.docx",
+    "updateFormUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=tvVgma76s0uhIsQ6zuqgbQQpxjNd7KhJvo_KYRIA9llUNDBCVzI2SlFYTkczVFVNRk4wVFY4NE1GMC4u",
+    "shortPurpose": "Improve accessibility of publicly available materials through shared tools, training, pilots, and sustainable communications routines.",
+    "purpose": "This charter-style action plan guides the Advancing Together Communications Team, Black Hawk County Public Health, and partner organizations in implementing Economic Stability Strategy 11: educating community organizations on practices that improve the accessibility of publicly available materials. The plan moves from scoping and partner learning to practical tools, pilot implementation, and sustainability.",
+    "coalitionRole": "The Communications Team and partners develop shared accessibility guidance, technical assistance, and repeatable processes for public-facing materials."
+  },
+  "quarters": [
+    {
+      "id": "Q1",
+      "label": "Q1",
+      "dateRange": "Jul-Sep 2026",
+      "startDate": "2026-07-01",
+      "endDate": "2026-09-30"
+    },
+    {
+      "id": "Q2",
+      "label": "Q2",
+      "dateRange": "Oct-Dec 2026",
+      "startDate": "2026-10-01",
+      "endDate": "2026-12-31"
+    },
+    {
+      "id": "Q3",
+      "label": "Q3",
+      "dateRange": "Jan-Mar 2027",
+      "startDate": "2027-01-01",
+      "endDate": "2027-03-31"
+    },
+    {
+      "id": "Q4",
+      "label": "Q4",
+      "dateRange": "Apr-Jun 2027",
+      "startDate": "2027-04-01",
+      "endDate": "2027-06-30"
+    },
+    {
+      "id": "Q5",
+      "label": "Q5",
+      "dateRange": "Jul-Sep 2027",
+      "startDate": "2027-07-01",
+      "endDate": "2027-09-30"
+    },
+    {
+      "id": "Q6",
+      "label": "Q6",
+      "dateRange": "Oct-Dec 2027",
+      "startDate": "2027-10-01",
+      "endDate": "2027-12-31"
+    },
+    {
+      "id": "Q7",
+      "label": "Q7",
+      "dateRange": "Jan-Mar 2028",
+      "startDate": "2028-01-01",
+      "endDate": "2028-03-31"
+    },
+    {
+      "id": "Q8",
+      "label": "Q8",
+      "dateRange": "Apr-Jun 2028",
+      "startDate": "2028-04-01",
+      "endDate": "2028-06-30"
+    },
+    {
+      "id": "Q9",
+      "label": "Q9",
+      "dateRange": "Jul-Sep 2028",
+      "startDate": "2028-07-01",
+      "endDate": "2028-09-30"
+    },
+    {
+      "id": "Q10",
+      "label": "Q10",
+      "dateRange": "Oct-Dec 2028",
+      "startDate": "2028-10-01",
+      "endDate": "2028-12-31"
+    }
+  ],
+  "objectives": [
+    {
+      "id": "foundation-and-partner-learning",
+      "title": "Foundation and partner learning",
+      "shortTitle": "Foundation and partner learning",
+      "color": "#1565C0",
+      "outcome": "Tracks foundation and partner learning actions in this plan."
+    },
+    {
+      "id": "toolkit-and-shared-resource-development",
+      "title": "Toolkit and shared resource development",
+      "shortTitle": "Toolkit and shared resource development",
+      "color": "#2E7D32",
+      "outcome": "Tracks toolkit and shared resource development actions in this plan."
+    },
+    {
+      "id": "training-pilot-and-material-updates",
+      "title": "Training, pilot, and material updates",
+      "shortTitle": "Training, pilot, and material updates",
+      "color": "#EF6C00",
+      "outcome": "Tracks training, pilot, and material updates actions in this plan."
+    },
+    {
+      "id": "sustainability-and-quarterly-communications-system",
+      "title": "Sustainability and quarterly communications system",
+      "shortTitle": "Sustainability and quarterly communications system",
+      "color": "#6A1B9A",
+      "outcome": "Tracks sustainability and quarterly communications system actions in this plan."
+    }
+  ],
+  "statusOptions": [
+    "Planned",
+    "In Progress",
+    "Complete",
+    "Paused"
+  ],
+  "editorNotes": [
+    "After reviewing external form submissions, update the relevant action row status, publicUpdateNote, and lastUpdated fields.",
+    "Use the existing Q1-Q10 quarter IDs so the static Gantt chart continues to render correctly.",
+    "To add future plans, use this same structure in a new JSON file and point a static action-plan page at it."
+  ],
+  "sections": [
+    {
+      "id": "foundation-and-scope",
+      "title": "Foundation and Scope",
+      "summary": "Confirm scope, audience, partner roles, gaps, and the most useful first-year product.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q1",
+      "endQuarter": "Q2",
+      "objectiveId": "foundation-and-partner-learning",
+      "objectiveColor": "#1565C0",
+      "actions": [
+        {
+          "id": "COM-01",
+          "title": "Convene the Advancing Together Communications Team to confirm the Strategy 11 charter and first-year decision points.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH Advancing Together Core Team",
+            "Jake and Gabbi",
+            "Northeast Iowa Food Bank and Pathways invited"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "foundation-and-partner-learning",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Confirm quarterly meeting rhythm",
+            "clarify whether the first phase centers on basic accessibility practices, language access, cultural review, or all three",
+            "document the intended audience for the first product"
+          ],
+          "resources": [
+            "Staff and volunteer meeting time",
+            "worksheet notes",
+            "CPA findings",
+            "shared agenda and documentation space"
+          ],
+          "successIndicators": [
+            "Team confirms scope, meeting schedule, lead roles, and a short list of decisions needed by the end of Q2"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-02",
+          "title": "Review Community Partner Assessment findings to identify priority barriers, languages, and public material types.",
+          "responsibleParties": [
+            "BHCPH data/convening staff",
+            "Advancing Together Communications Team",
+            "CPA participants as available"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q1",
+          "objectiveId": "foundation-and-partner-learning",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Summarize translation, interpretation, accessibility, cost, time, technology, and staff capacity barriers",
+            "note common languages and areas with higher burden or people not currently reached"
+          ],
+          "resources": [
+            "CPA results",
+            "staff data time",
+            "partner knowledge about public-facing materials and service access barriers"
+          ],
+          "successIndicators": [
+            "A short data brief identifies priority gaps, partner needs, and 3-5 material types to focus on first"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q1: Jul-Sep 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-03",
+          "title": "Map existing communications infrastructure, authority, and resources that can support shared accessibility guidance.",
+          "responsibleParties": [
+            "BHCPH communications",
+            "Communications Hub team",
+            "Advancing Together Communications Team"
+          ],
+          "startQuarter": "Q1",
+          "endQuarter": "Q2",
+          "objectiveId": "foundation-and-partner-learning",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Inventory Google Drive, Facebook group, BHCPH Advancing Together webpage, draft Advancing Together website, partner channels, and local government accessibility lessons",
+            "clarify who can approve and maintain public-facing resources"
+          ],
+          "resources": [
+            "Communications staff time",
+            "current channels",
+            "shared file space",
+            "website or webpage support"
+          ],
+          "successIndicators": [
+            "Resource map and maintenance owner options are documented before toolkit development begins"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q1: Jul-Sep 2026 - Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-04",
+          "title": "Hold targeted partner listening with organizations that understand language, disability, older adult, and low-literacy access barriers.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "RIYO or other community-led groups",
+            "older adult, disability-serving, immigrant/refugee, library, school, and adult education partners"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "foundation-and-partner-learning",
+          "objectiveColor": "#1565C0",
+          "keyTasks": [
+            "Ask what would be most useful: training, toolkit, checklist, vendor list, peer examples, or online resource hub",
+            "gather examples of barriers created by online-only, small-print, untranslated, inaccessible PDF, video, image, or screenshot-only materials"
+          ],
+          "resources": [
+            "Meeting time",
+            "facilitation",
+            "interpretation or translation if needed",
+            "possible stipends for community reviewers",
+            "partner contact lists"
+          ],
+          "successIndicators": [
+            "At least 8 partner or community reviewer perspectives inform the first product choice and quick-win practices"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "tools-and-shared-resources",
+      "title": "Tools and Shared Resources",
+      "summary": "Create practical tools for plain language, accessible public materials, language access, cultural review, and vendor navigation.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q2",
+      "endQuarter": "Q4",
+      "objectiveId": "toolkit-and-shared-resource-development",
+      "objectiveColor": "#2E7D32",
+      "actions": [
+        {
+          "id": "COM-05",
+          "title": "Select the first shared product and define practical success measures for partner use.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH Core Team",
+            "Northeast Iowa Food Bank",
+            "Pathways"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q2",
+          "objectiveId": "toolkit-and-shared-resource-development",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Choose whether to build a toolkit, checklist, decision tree, vendor/resource list, training, repository, or combined starter package",
+            "set realistic measures for partner learning and material updates"
+          ],
+          "resources": [
+            "Meeting time",
+            "CPA data brief",
+            "partner feedback",
+            "shared documentation template"
+          ],
+          "successIndicators": [
+            "First shared product, audience, success measures, and development timeline are approved"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q2: Oct-Dec 2026.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-06",
+          "title": "Draft a beginner-friendly checklist and decision tree for public-facing materials.",
+          "responsibleParties": [
+            "BHCPH communications",
+            "Advancing Together Communications Team",
+            "local government communications partners"
+          ],
+          "startQuarter": "Q2",
+          "endQuarter": "Q3",
+          "objectiveId": "toolkit-and-shared-resource-development",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Cover plain language, readability, accessible PDFs, websites, flyers, images, videos, social media posts, captions, alt text, large print, non-digital options, and public meeting materials",
+            "include quick wins such as avoiding screenshot-only flyers"
+          ],
+          "resources": [
+            "Staff drafting time",
+            "existing accessibility guidance",
+            "examples from Black Hawk County, Linn County, Johnson County, nonprofits, and community foundations"
+          ],
+          "successIndicators": [
+            "Draft checklist and decision tree are ready for partner review by the end of Q3"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q2: Oct-Dec 2026 - Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-07",
+          "title": "Develop language access and cultural review guidance for translated materials.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "immigrant/refugee-serving partners",
+            "trained bilingual staff or qualified interpreters/translators"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q3",
+          "objectiveId": "toolkit-and-shared-resource-development",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Identify priority language questions",
+            "explain when AI, Google Translate, bilingual staff, qualified translators, interpreters, or human cultural review may be appropriate",
+            "note risks, limits, and review steps"
+          ],
+          "resources": [
+            "Partner expertise",
+            "translation and interpretation vendor information",
+            "community reviewer time",
+            "possible stipends"
+          ],
+          "successIndicators": [
+            "Guidance helps partners decide when translation, interpretation, or cultural review is needed for key materials"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q3: Jan-Mar 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-08",
+          "title": "Create a shared vendor, tool, and example list for accessibility, translation, interpretation, captioning, and document support.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "Community Foundation contacts",
+            "partner organizations willing to share vendors",
+            "web or communications vendors as available"
+          ],
+          "startQuarter": "Q3",
+          "endQuarter": "Q4",
+          "objectiveId": "toolkit-and-shared-resource-development",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Collect vendors, tools, pricing considerations, turnaround times, accessibility reviewers, web developers, captioning options, and examples of strong local materials",
+            "flag where group pricing may be possible"
+          ],
+          "resources": [
+            "Staff research time",
+            "partner referrals",
+            "Community Foundation examples",
+            "vendor contacts",
+            "shared spreadsheet or repository"
+          ],
+          "successIndicators": [
+            "Vendor/resource list includes at least 10 usable entries and notes cost, service type, and practical considerations"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q3: Jan-Mar 2027 - Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-09",
+          "title": "Pilot the draft toolkit with a small group of organizations before broader release.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "Northeast Iowa Food Bank",
+            "Pathways",
+            "3-5 pilot organizations"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "toolkit-and-shared-resource-development",
+          "objectiveColor": "#2E7D32",
+          "keyTasks": [
+            "Ask pilot organizations to apply the checklist to one flyer, webpage, PDF, social media post, video, or public meeting material",
+            "document what is clear, what is too burdensome, and what requires funding or technical assistance"
+          ],
+          "resources": [
+            "Pilot partner time",
+            "facilitation",
+            "checklist draft",
+            "technical assistance time",
+            "possible translation or accessibility review costs"
+          ],
+          "successIndicators": [
+            "Pilot feedback produces concrete revisions and at least 3 materials are reviewed using the draft tool"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "pilot-and-training",
+      "title": "Pilot and Training",
+      "summary": "Pilot the tools with partner organizations, support material updates, and track whether people not currently reached are better considered.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q4",
+      "endQuarter": "Q7",
+      "objectiveId": "training-pilot-and-material-updates",
+      "objectiveColor": "#EF6C00",
+      "actions": [
+        {
+          "id": "COM-10",
+          "title": "Host the first training or peer-learning session on accessible, plain-language, and language-accessible public materials.",
+          "responsibleParties": [
+            "Advancing Together Communications Team lead",
+            "BHCPH communications",
+            "pilot partners as peer examples"
+          ],
+          "startQuarter": "Q4",
+          "endQuarter": "Q4",
+          "objectiveId": "training-pilot-and-material-updates",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Share the starter checklist, quick wins, decision tree, and examples",
+            "include accessible print, digital, social media, translated, and non-digital communication practices"
+          ],
+          "resources": [
+            "Training time",
+            "meeting platform or venue",
+            "slides",
+            "partner examples",
+            "interpretation or captioning if needed"
+          ],
+          "successIndicators": [
+            "At least 15 participants attend and post-session feedback shows increased confidence in creating accessible public materials"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q4: Apr-Jun 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-11",
+          "title": "Provide a first technical assistance cohort for organizations updating priority public materials.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH communications",
+            "partner volunteers with accessibility or language access expertise"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q6",
+          "objectiveId": "training-pilot-and-material-updates",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Support organizations in reviewing or revising materials that affect service access",
+            "prioritize plain language, readable layout, captions, alt text, accessible PDFs, translated materials, and non-digital options where needed"
+          ],
+          "resources": [
+            "Staff or volunteer technical assistance time",
+            "translation/accessibility review budget if available",
+            "shared templates",
+            "meeting time"
+          ],
+          "successIndicators": [
+            "At least 6 organizations complete a material review and at least 10 public-facing materials are improved"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q5: Jul-Sep 2027 - Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-12",
+          "title": "Collect user and community reviewer feedback on whether revised materials reduce barriers to information access.",
+          "responsibleParties": [
+            "Pilot organizations",
+            "community reviewers",
+            "Advancing Together Communications Team"
+          ],
+          "startQuarter": "Q6",
+          "endQuarter": "Q6",
+          "objectiveId": "training-pilot-and-material-updates",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Use brief feedback forms, partner conversations, or reviewer notes to assess clarity, language fit, readability, non-digital access, and usefulness for people not currently reached"
+          ],
+          "resources": [
+            "Feedback tool",
+            "reviewer time",
+            "possible stipends",
+            "interpretation or translation support"
+          ],
+          "successIndicators": [
+            "Feedback identifies what changed, remaining barriers, and priorities for the next training cycle"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q6: Oct-Dec 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-13",
+          "title": "Expand training and peer examples to a broader group of community organizations.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "partner organizations",
+            "public libraries, schools/adult education providers, and nonprofit networks"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q7",
+          "objectiveId": "training-pilot-and-material-updates",
+          "objectiveColor": "#EF6C00",
+          "keyTasks": [
+            "Offer a second session or peer-learning forum",
+            "highlight practical examples from the cohort",
+            "promote through existing partner channels",
+            "invite organizations with cost, training, translation, and technology barriers"
+          ],
+          "resources": [
+            "Training platform or venue",
+            "promotion time",
+            "updated toolkit",
+            "captions and interpretation if needed"
+          ],
+          "successIndicators": [
+            "At least 25 additional participants are reached and 8 organizations commit to using the checklist or resource hub"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q7: Jan-Mar 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    },
+    {
+      "id": "resource-hub-and-sustainability",
+      "title": "Resource Hub and Sustainability",
+      "summary": "Build the resource hub, refresh process, shared funding options, and ongoing quarterly reporting into Advancing Together routines.",
+      "responsibleSummary": "Combined view",
+      "startQuarter": "Q5",
+      "endQuarter": "Q10",
+      "objectiveId": "sustainability-and-quarterly-communications-system",
+      "objectiveColor": "#6A1B9A",
+      "actions": [
+        {
+          "id": "COM-14",
+          "title": "Launch a shared resource hub for accessibility, language access, and public material examples.",
+          "responsibleParties": [
+            "BHCPH communications",
+            "Communications Hub team",
+            "Advancing Together Communications Team"
+          ],
+          "startQuarter": "Q5",
+          "endQuarter": "Q5",
+          "objectiveId": "sustainability-and-quarterly-communications-system",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Post the checklist, decision tree, vendor/tool list, training slides, quick-win examples, and contact path through Google Drive, the BHCPH Advancing Together webpage, and/or future Advancing Together website"
+          ],
+          "resources": [
+            "Website or file-space maintenance time",
+            "document formatting",
+            "link management",
+            "plain-language review"
+          ],
+          "successIndicators": [
+            "Resource hub is live, shared through partner channels, and has an identified maintainer"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q5: Jul-Sep 2027.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-15",
+          "title": "Refresh toolkit content based on changing standards, partner use, and community language needs.",
+          "responsibleParties": [
+            "BHCPH communications",
+            "local government accessibility contacts",
+            "Advancing Together Communications Team"
+          ],
+          "startQuarter": "Q7",
+          "endQuarter": "Q8",
+          "objectiveId": "sustainability-and-quarterly-communications-system",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review changes in governmental accessibility timelines and lessons",
+            "update priority language information",
+            "remove outdated tools",
+            "add examples of accessible print, digital, video, and meeting materials"
+          ],
+          "resources": [
+            "Quarterly maintenance time",
+            "partner feedback",
+            "government accessibility updates",
+            "resource hub access"
+          ],
+          "successIndicators": [
+            "Updated toolkit version is posted with a change log and partner notification"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q7: Jan-Mar 2028 - Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-16",
+          "title": "Explore shared funding, group pricing, or pooled vendor access for translation, interpretation, and accessibility support.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH Core Team",
+            "Community Foundation partners",
+            "interested nonprofits and vendors"
+          ],
+          "startQuarter": "Q8",
+          "endQuarter": "Q8",
+          "objectiveId": "sustainability-and-quarterly-communications-system",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Assess partner demand, common service needs, likely costs, and possible funders",
+            "determine whether group rates, vendor agreements, or shared technical assistance are feasible"
+          ],
+          "resources": [
+            "Cost estimates",
+            "funder conversations",
+            "vendor discussions",
+            "partner demand survey",
+            "staff coordination time"
+          ],
+          "successIndicators": [
+            "A feasibility memo identifies at least one viable shared resource or explains why individual partner approaches are more realistic"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q8: Apr-Jun 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-17",
+          "title": "Institutionalize a quarterly communications accessibility touchpoint and reporting process.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH Advancing Together Core Team",
+            "coalition partners"
+          ],
+          "startQuarter": "Q9",
+          "endQuarter": "Q9",
+          "objectiveId": "sustainability-and-quarterly-communications-system",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Add standing quarterly review of toolkit use, training reach, material updates, barriers, and partner needs",
+            "report progress to the Advancing Together coalition"
+          ],
+          "resources": [
+            "Quarterly meeting time",
+            "simple tracking spreadsheet",
+            "coalition agenda time",
+            "resource hub metrics if available"
+          ],
+          "successIndicators": [
+            "Quarterly reporting process is in place and includes partner participation, materials updated, and barriers needing coalition attention"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q9: Jul-Sep 2028.",
+          "lastUpdated": "2026-05-26"
+        },
+        {
+          "id": "COM-18",
+          "title": "Complete the 2028 review and sustainability plan for shared communications accessibility resources.",
+          "responsibleParties": [
+            "Advancing Together Communications Team",
+            "BHCPH Core Team",
+            "key partner organizations"
+          ],
+          "startQuarter": "Q10",
+          "endQuarter": "Q10",
+          "objectiveId": "sustainability-and-quarterly-communications-system",
+          "objectiveColor": "#6A1B9A",
+          "keyTasks": [
+            "Review accomplishments, partner feedback, materials updated, resource hub use, training reach, and remaining gaps",
+            "confirm 2029 ownership, maintenance, funding, and coalition reporting needs"
+          ],
+          "resources": [
+            "Evaluation time",
+            "partner feedback",
+            "tracking data",
+            "meeting time",
+            "sustainability planning template"
+          ],
+          "successIndicators": [
+            "Final review documents progress and names owners, refresh schedule, and resource needs for sustaining the work beyond 2028"
+          ],
+          "status": "Planned",
+          "publicUpdateNote": "Initial action-plan row published from the FY26-28 Communications source materials. Implementation is scheduled for Q10: Oct-Dec 2028.",
+          "lastUpdated": "2026-05-26"
+        }
+      ]
+    }
+  ]
+}

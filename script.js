@@ -28,6 +28,7 @@ function openMobileNav() {
   mobileNav.classList.add('open');
   document.body.classList.add('menu-open');
   navToggle.setAttribute('aria-expanded', 'true');
+  mobileNav.setAttribute('aria-hidden', 'false');
 }
 
 function closeMobileNav() {
@@ -38,6 +39,7 @@ function closeMobileNav() {
   mobileNav.classList.remove('open');
   document.body.classList.remove('menu-open');
   navToggle.setAttribute('aria-expanded', 'false');
+  mobileNav.setAttribute('aria-hidden', 'true');
 }
 
 if (navToggle) {
